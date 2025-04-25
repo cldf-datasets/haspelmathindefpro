@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/haspelmathindefpro",
             "rdf:type": "prov:Entity",
-            "dc:created": "c0a4252",
+            "dc:created": "e36d830",
             "dc:title": "Repository"
         },
         {
@@ -375,6 +375,11 @@
                     },
                     {
                         "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#codeReference",
+                        "name": "Code_ID"
+                    },
+                    {
+                        "datatype": "string",
                         "null": [
                             "?",
                             ""
@@ -390,6 +395,17 @@
                         ],
                         "reference": {
                             "resource": "parameters.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Code_ID"
+                        ],
+                        "reference": {
+                            "resource": "codes.csv",
                             "columnReference": [
                                 "ID"
                             ]
