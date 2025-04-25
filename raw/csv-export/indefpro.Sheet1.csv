@@ -1,0 +1,141 @@
+language,Glottocode,form,specific known,specific unknown,irrealis nsp,question,conditional,indirect negation,direct negation,comparative,free choice
+German,stan1295,etwas,1,1,1,1,1,1,0,0,0
+German,stan1295,irgend,0,1,1,1,1,1,0,1,1
+German,stan1295,je,0,0,0,1,1,1,0,1,0
+German,stan1295,jeder,0,0,0,0,0,1,0,1,1
+German,stan1295,n-,0,0,0,0,0,0,1,0,0
+Dutch,dutc1256,enig,0,0,0,1,1,1,0,1,0
+Dutch,dutc1256,iets,1,1,1,1,1,1,0,0,0
+Dutch,dutc1256,niets,0,0,0,0,0,0,1,0,0
+English,stan1293,any,0,0,0,1,1,1,1,1,1
+English,stan1293,ever,0,0,0,1,1,1,1,1,0
+English,stan1293,no,0,0,0,0,0,0,1,0,0
+English,stan1293,some,1,1,1,1,1,0,0,0,0
+Swedish,swed1254,ingen,0,0,0,0,0,0,1,0,0
+Swedish,swed1254,nagon,1,1,1,1,1,1,1,1,0
+Swedish,swed1254,som helst,0,0,0,0,0,0,0,1,1
+Icelandic,icel1247,enginn,0,0,0,0,0,0,1,0,0
+Icelandic,icel1247,n-,0,0,0,0,0,1,1,0,0
+Icelandic,icel1247,nokkur,0,0,0,1,0,1,0,1,0
+Icelandic,icel1247,sem er,0,0,0,0,0,0,0,0,1
+Latin,lati1261,ali-,0,1,1,1,1,0,0,0,0
+Latin,lati1261,-dam,1,0,0,0,0,0,0,0,0
+Latin,lati1261,-libet,0,0,0,0,0,0,0,0,1
+Latin,lati1261,n-,0,0,0,0,0,0,1,0,0
+Latin,lati1261,-quam,0,0,0,1,1,1,0,1,0
+Latin,lati1261,-vis,0,0,0,0,0,0,0,0,1
+Portuguese,port1283,alg-,1,1,1,1,1,0,0,0,0
+Portuguese,port1283,n-,0,0,0,0,0,1,1,0,0
+Portuguese,port1283,qualquer,0,1,1,1,1,1,1,1,1
+Catalan,stan1289,algun,1,1,1,1,1,1,0,0,0
+Catalan,stan1289,cap,0,0,0,1,1,1,1,1,0
+Catalan,stan1289,qualsevol,0,0,0,0,0,0,0,1,1
+French,stan1290,n'importe,0,0,0,0,0,0,0,1,1
+French,stan1290,personne,0,0,0,1,1,1,1,1,0
+French,stan1290,que ce soit,0,0,0,1,1,1,1,1,1
+French,stan1290,quelque,1,1,1,1,1,0,0,0,0
+Italian,ital1282,nessuno,0,0,0,1,0,1,1,0,0
+Italian,ital1282,qualche,1,1,1,1,1,1,0,0,0
+Italian,ital1282,-unque,0,0,0,0,0,0,0,1,1
+Romanian,roma1327,ni-,0,0,0,0,0,1,1,0,0
+Romanian,roma1327,ori-,0,0,0,0,0,0,0,1,1
+Romanian,roma1327,-va,1,1,1,1,1,0,0,0,0
+Romanian,roma1327,vre-un,0,0,0,1,1,1,0,0,0
+Modern Greek,mode1248,-dhipote,0,0,0,0,1,0,0,1,1
+Modern Greek,mode1248,ka-,0,1,1,1,1,0,0,0,0
+Modern Greek,mode1248,tipota,0,0,1,1,1,1,1,0,0
+Bulgarian,bulg1262,ni-,0,0,0,0,0,1,1,0,0
+Bulgarian,bulg1262,nja-,1,1,1,1,1,0,0,0,0
+Bulgarian,bulg1262,-toidae,0,0,0,0,1,1,0,1,1
+Serbo-Croatian,sout1528,bilo,0,0,0,1,1,1,0,1,1
+Serbo-Croatian,sout1528,i-,0,0,0,1,1,1,0,1,0
+Serbo-Croatian,sout1528,ne-,1,1,1,0,0,0,0,0,0
+Serbo-Croatian,sout1528,ni-,0,0,0,0,0,0,1,0,0
+Polish,poli1260,-kolwiek,0,0,0,1,1,1,0,1,1
+Polish,poli1260,ni-,0,0,0,0,0,0,1,0,0
+Polish,poli1260,-s,1,1,1,1,1,1,0,0,0
+Russian,russ1263,by to ni bylo,0,0,0,0,1,1,0,1,0
+Russian,russ1263,koe-,1,0,0,0,0,0,0,0,0
+Russian,russ1263,-libo,0,0,1,1,1,1,0,1,0
+Russian,russ1263,ni-,0,0,0,0,0,0,1,0,0
+Russian,russ1263,-nibud,0,0,1,1,1,0,0,0,0
+Russian,russ1263,-to,0,1,1,1,1,0,0,0,0
+Russian,russ1263,ljuboj/ugodno,0,0,0,0,0,0,0,0,1
+Lithuanian,lith1251,bet,0,0,0,0,0,0,0,1,1
+Lithuanian,lith1251,joks,0,0,0,0,0,1,1,0,0
+Lithuanian,lith1251,kai,1,0,0,0,0,0,0,0,0
+Lithuanian,lith1251,kaz-,0,1,1,1,1,0,0,0,0
+Lithuanian,lith1251,nie-,0,0,0,0,0,0,1,0,0
+Lithuanian,lith1251,nors,0,0,1,1,1,1,0,1,0
+Latvian,latv1249,jeb,0,0,0,0,0,1,0,1,1
+Latvian,latv1249,kaut,1,1,1,1,1,0,0,0,0
+Latvian,latv1249,ne-,0,0,0,0,0,0,1,0,0
+Irish,iris1253,ar bith /aon,0,0,0,1,1,1,1,1,1
+Irish,iris1253,dada,0,0,0,1,1,1,1,1,0
+Irish,iris1253,eigin,1,1,1,0,0,0,0,0,0
+Ossetic,osse1243,-doer,1,1,0,0,0,0,0,0,0
+Ossetic,osse1243,-doeriddoer,0,0,0,0,0,0,0,1,1
+Ossetic,osse1243,is-,0,0,1,1,1,1,0,0,0
+Ossetic,osse1243,ma-/ni-,0,0,0,0,0,0,1,0,0
+Persian,west2369,hic,0,0,0,1,0,1,1,0,0
+Persian,west2369,-i,1,1,1,1,1,1,1,0,0
+Hindi/Urdu,hind1269,bhii,0,0,1,1,1,1,1,1,1
+Hindi/Urdu,hind1269,koii,1,1,1,1,1,1,1,0,0
+Turkish,nucl1301,bir,1,1,1,1,1,1,1,0,0
+Turkish,nucl1301,herhangi,0,0,1,1,1,1,1,1,1
+Turkish,nucl1301,hiç,0,0,0,1,0,1,1,0,0
+Kazakh,kaza1248,älde-,1,1,0,0,0,0,0,0,0
+Kazakh,kaza1248,bir,1,1,1,1,1,1,0,0,0
+Kazakh,kaza1248,bolsa da,0,0,0,1,1,0,0,1,1
+Kazakh,kaza1248,es,0,0,0,0,0,0,1,0,0
+Yakut,yaku1245,bayarar,0,0,0,0,0,0,0,0,1
+Yakut,yaku1245,-da,0,0,0,0,0,1,1,1,1
+Yakut,yaku1245,eme,0,0,1,1,1,0,0,0,0
+Yakut,yaku1245,ere,1,1,0,0,0,0,0,0,0
+Hungarian,hung1274,akar-/bar-,0,0,0,0,1,1,0,1,1
+Hungarian,hung1274,sem,0,0,0,0,0,0,1,0,0
+Hungarian,hung1274,vala-,1,1,1,1,1,1,0,0,0
+Finnish,finn1318,eräs,1,0,0,0,0,0,0,0,0
+Finnish,finn1318,hyvänsä,0,0,0,0,1,0,0,1,1
+Finnish,finn1318,-kaan,0,0,0,1,0,1,1,1,0
+Finnish,finn1318,-kin,0,1,1,1,1,0,0,0,0
+Nanay,nana1257,-daa,0,0,1,1,1,1,1,1,0
+Nanay,nana1257,-daa xem aja,0,0,0,0,0,0,0,0,1
+Nanay,nana1257,-nuu,1,1,0,0,0,0,0,0,0
+Lezgian,lezg1247,sa WH jat'ani,1,1,1,1,1,0,0,0,0
+Lezgian,lezg1247,sa X-ni,0,0,0,0,0,1,1,0,0
+Lezgian,lezg1247,xajit'ani,0,0,0,0,0,0,0,1,1
+Maltese,malt1254,ebda,0,0,0,0,0,1,1,1,0
+Maltese,malt1254,xi,1,1,1,1,1,0,0,0,0
+Hebrew,hebr1245,af/sum,0,0,0,0,0,1,1,0,0
+Hebrew,hebr1245,is,0,0,0,1,1,1,1,0,0
+Hebrew,hebr1245,kol,0,0,0,0,0,0,0,1,1
+Hebrew,hebr1245,sehu,1,1,1,1,1,1,0,0,0
+Hausa,haus1257,koo,0,0,0,0,0,1,1,1,1
+Hausa,haus1257,wani,1,1,1,1,1,0,0,0,0
+Swahili,swah1253,CL-o Cl-ote,0,0,0,1,1,1,1,1,1
+Swahili,swah1253,(none; generic nouns),1,1,1,1,1,1,1,0,0
+Georgian,nucl1302,ara-,0,0,0,0,0,0,1,0,0
+Georgian,nucl1302,-me,0,0,1,1,1,1,0,1,0
+Georgian,nucl1302,-yac,1,1,0,0,0,0,0,0,0
+Kannada,nucl1305,-aadarun,0,0,1,1,1,0,0,0,0
+Kannada,nucl1305,-oo,0,1,0,0,0,0,0,0,0
+Kannada,nucl1305,-uu,0,0,0,0,0,1,1,1,1
+Chinese,mand1415,(none; bare WH),0,0,1,1,1,1,1,0,0
+Chinese,mand1415,renhe,0,0,0,0,0,1,1,1,1
+Chinese,mand1415,ye/dou,0,0,0,0,0,0,1,0,0
+Ancash Quechua,apam1237,-pis,0,0,1,1,1,1,1,1,1
+Japanese,nucl1643,-demo,0,0,0,0,0,0,0,0,1
+Japanese,nucl1643,-ka,1,1,1,1,1,0,0,0,0
+Japanese,nucl1643,-mo,0,0,0,0,0,1,1,1,0
+Korean,kore1280,bare WH/-nka,1,1,1,1,1,1,0,0,0
+Korean,kore1280,-na/-tunci,0,0,0,0,0,0,0,0,1
+Korean,kore1280,-to,0,0,0,0,0,1,1,1,0
+Basque,basq1248,bat,1,0,0,0,0,0,0,0,0
+Basque,basq1248,-bait,0,1,1,0,0,0,0,0,0
+Basque,basq1248,edo-/-nahi,0,0,0,0,0,0,0,1,1
+Basque,basq1248,i-,0,0,0,1,1,1,1,1,0
+Chinese,mand1415,(none; generic nouns),1,1,0,0,0,0,0,0,0
+Dutch,dutc1256,dan ook,0,0,1,1,1,1,0,1,1
+Icelandic,icel1247,ein-,1,1,1,1,1,0,0,0,0
+Ancash Quechua,apam1237,(none; bare WH),1,1,0,0,0,0,0,0,0

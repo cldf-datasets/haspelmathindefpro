@@ -1,0 +1,10 @@
+ID,Original_Name,Name,Description
+c-specific-known,specific known,specific known,
+c-specific-unknown,specific unknown,specific unknown,
+c-irrealis-nsp,irrealis nsp,irrealis non-specific,
+c-question,question,question,
+c-conditional,conditional,conditional,
+c-indirect-negation,indirect negation,indirect negation,
+c-direct-negation,direct negation,direct negation,
+c-comparative,comparative,comparative,
+c-free-choice,free choice,free choice,
