@@ -129,6 +129,7 @@ def make_schema(cldf):
          'datatype': 'string',
          'required': True,
          'dc:extent': 'singlevalued'},
+        'http://cldf.clld.org/v1.0/terms.rdf#codeReference',
         'http://cldf.clld.org/v1.0/terms.rdf#value')
     cldf.add_foreign_key(
         'cvalues.csv', 'Construction_ID', 'constructions.csv', 'ID')
