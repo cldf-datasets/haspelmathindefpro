@@ -8,19 +8,19 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:identifier": "https://crossgram.clld.org/contributions/haspelmathindefpro",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
-    "dc:title": "Indefinite Pronouns",
+    "dc:title": "Indefinite Pronoun Markers",
     "dcat:accessURL": "https://github.com/cldf-datasets/haspelmathindefpro",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/cldf-datasets/haspelmathindefpro",
             "rdf:type": "prov:Entity",
-            "dc:created": "466fb67",
+            "dc:created": "4fc09d8",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.1",
+            "dc:created": "v5.2",
             "dc:title": "Glottolog"
         }
     ],
