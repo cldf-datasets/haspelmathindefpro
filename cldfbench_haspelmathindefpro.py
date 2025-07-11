@@ -43,7 +43,7 @@ def make_constructions(data):
     return {
         (row['Glottocode'], row['form']): {
             'ID': '{}-{}'.format(row['Glottocode'], slug(row['form'])),
-            'Name': 'Indefiniteness marker: {}'.format(row['form']),
+            'Name': 'Marker: {}'.format(row['form']),
             'Language_ID': row['Glottocode']}
         for row in data}
 
