@@ -1,141 +1,141 @@
 ID,Language_ID,Name,Description
-stan1295-etwas,stan1295,Marker: etwas,
-stan1295-irgend,stan1295,Marker: irgend,
-stan1295-je,stan1295,Marker: je,
-stan1295-jeder,stan1295,Marker: jeder,
-stan1295-n-,stan1295,Marker: n-,
-dutc1256-enig,dutc1256,Marker: enig,
-dutc1256-iets,dutc1256,Marker: iets,
-dutc1256-niets,dutc1256,Marker: niets,
-stan1293-any,stan1293,Marker: any,
-stan1293-ever,stan1293,Marker: ever,
-stan1293-no,stan1293,Marker: no,
-stan1293-some,stan1293,Marker: some,
-swed1254-ingen,swed1254,Marker: ingen,
-swed1254-nagon,swed1254,Marker: nagon,
-swed1254-somhelst,swed1254,Marker: som helst,
-icel1247-enginn,icel1247,Marker: enginn,
-icel1247-n-,icel1247,Marker: n-,
-icel1247-nokkur,icel1247,Marker: nokkur,
-icel1247-semer,icel1247,Marker: sem er,
-lati1261-ali-,lati1261,Marker: ali-,
-lati1261--dam,lati1261,Marker: -dam,
-lati1261--libet,lati1261,Marker: -libet,
-lati1261-n-,lati1261,Marker: n-,
-lati1261--quam,lati1261,Marker: -quam,
-lati1261--vis,lati1261,Marker: -vis,
-port1283-alg-,port1283,Marker: alg-,
-port1283-n-,port1283,Marker: n-,
-port1283-qualquer,port1283,Marker: qualquer,
-stan1289-algun,stan1289,Marker: algun,
-stan1289-cap,stan1289,Marker: cap,
-stan1289-qualsevol,stan1289,Marker: qualsevol,
-stan1290-nimporte,stan1290,Marker: n'importe,
-stan1290-personne,stan1290,Marker: personne,
-stan1290-quecesoit,stan1290,Marker: que ce soit,
-stan1290-quelque,stan1290,Marker: quelque,
-ital1282-nessuno,ital1282,Marker: nessuno,
-ital1282-qualche,ital1282,Marker: qualche,
-ital1282--unque,ital1282,Marker: -unque,
-roma1327-ni-,roma1327,Marker: ni-,
-roma1327-ori-,roma1327,Marker: ori-,
-roma1327--va,roma1327,Marker: -va,
-roma1327-vre-un,roma1327,Marker: vre-un,
-mode1248--dhipote,mode1248,Marker: -dhipote,
-mode1248-ka-,mode1248,Marker: ka-,
-mode1248-tipota,mode1248,Marker: tipota,
-bulg1262-ni-,bulg1262,Marker: ni-,
-bulg1262-nja-,bulg1262,Marker: nja-,
-bulg1262--toidae,bulg1262,Marker: -toidae,
-sout1528-bilo,sout1528,Marker: bilo,
-sout1528-i-,sout1528,Marker: i-,
-sout1528-ne-,sout1528,Marker: ne-,
-sout1528-ni-,sout1528,Marker: ni-,
-poli1260--kolwiek,poli1260,Marker: -kolwiek,
-poli1260-ni-,poli1260,Marker: ni-,
-poli1260--s,poli1260,Marker: -s,
-russ1263-bytonibylo,russ1263,Marker: by to ni bylo,
-russ1263-koe-,russ1263,Marker: koe-,
-russ1263--libo,russ1263,Marker: -libo,
-russ1263-ni-,russ1263,Marker: ni-,
-russ1263--nibud,russ1263,Marker: -nibud,
-russ1263--to,russ1263,Marker: -to,
-russ1263-ljubojugodno,russ1263,Marker: ljuboj/ugodno,
-lith1251-bet,lith1251,Marker: bet,
-lith1251-joks,lith1251,Marker: joks,
-lith1251-kai,lith1251,Marker: kai,
-lith1251-kaz-,lith1251,Marker: kaz-,
-lith1251-nie-,lith1251,Marker: nie-,
-lith1251-nors,lith1251,Marker: nors,
-latv1249-jeb,latv1249,Marker: jeb,
-latv1249-kaut,latv1249,Marker: kaut,
-latv1249-ne-,latv1249,Marker: ne-,
-iris1253-arbithaon,iris1253,Marker: ar bith /aon,
-iris1253-dada,iris1253,Marker: dada,
-iris1253-eigin,iris1253,Marker: eigin,
-osse1243--doer,osse1243,Marker: -doer,
-osse1243--doeriddoer,osse1243,Marker: -doeriddoer,
-osse1243-is-,osse1243,Marker: is-,
-osse1243-ma-ni-,osse1243,Marker: ma-/ni-,
-west2369-hic,west2369,Marker: hic,
-west2369--i,west2369,Marker: -i,
-hind1269-bhii,hind1269,Marker: bhii,
-hind1269-koii,hind1269,Marker: koii,
-nucl1301-bir,nucl1301,Marker: bir,
-nucl1301-herhangi,nucl1301,Marker: herhangi,
-nucl1301-hic,nucl1301,Marker: hiç,
-kaza1248-alde-,kaza1248,Marker: älde-,
-kaza1248-bir,kaza1248,Marker: bir,
-kaza1248-bolsada,kaza1248,Marker: bolsa da,
-kaza1248-es,kaza1248,Marker: es,
-yaku1245-bayarar,yaku1245,Marker: bayarar,
-yaku1245--da,yaku1245,Marker: -da,
-yaku1245-eme,yaku1245,Marker: eme,
-yaku1245-ere,yaku1245,Marker: ere,
-hung1274-akar-bar-,hung1274,Marker: akar-/bar-,
-hung1274-sem,hung1274,Marker: sem,
-hung1274-vala-,hung1274,Marker: vala-,
-finn1318-eras,finn1318,Marker: eräs,
-finn1318-hyvansa,finn1318,Marker: hyvänsä,
-finn1318--kaan,finn1318,Marker: -kaan,
-finn1318--kin,finn1318,Marker: -kin,
-nana1257--daa,nana1257,Marker: -daa,
-nana1257--daaxemaja,nana1257,Marker: -daa xem aja,
-nana1257--nuu,nana1257,Marker: -nuu,
-lezg1247-sawhjatani,lezg1247,Marker: sa WH jat'ani,
-lezg1247-sax-ni,lezg1247,Marker: sa X-ni,
-lezg1247-xajitani,lezg1247,Marker: xajit'ani,
-malt1254-ebda,malt1254,Marker: ebda,
-malt1254-xi,malt1254,Marker: xi,
-hebr1245-afsum,hebr1245,Marker: af/sum,
-hebr1245-is,hebr1245,Marker: is,
-hebr1245-kol,hebr1245,Marker: kol,
-hebr1245-sehu,hebr1245,Marker: sehu,
-haus1257-koo,haus1257,Marker: koo,
-haus1257-wani,haus1257,Marker: wani,
-swah1253-cl-ocl-ote,swah1253,Marker: CL-o Cl-ote,
-swah1253-nonegenericnouns,swah1253,Marker: (none; generic nouns),
-nucl1302-ara-,nucl1302,Marker: ara-,
-nucl1302--me,nucl1302,Marker: -me,
-nucl1302--yac,nucl1302,Marker: -yac,
-nucl1305--aadarun,nucl1305,Marker: -aadarun,
-nucl1305--oo,nucl1305,Marker: -oo,
-nucl1305--uu,nucl1305,Marker: -uu,
-mand1415-nonebarewh,mand1415,Marker: (none; bare WH),
-mand1415-renhe,mand1415,Marker: renhe,
-mand1415-yedou,mand1415,Marker: ye/dou,
-apam1237--pis,apam1237,Marker: -pis,
-nucl1643--demo,nucl1643,Marker: -demo,
-nucl1643--ka,nucl1643,Marker: -ka,
-nucl1643--mo,nucl1643,Marker: -mo,
-kore1280-barewh-nka,kore1280,Marker: bare WH/-nka,
-kore1280--na-tunci,kore1280,Marker: -na/-tunci,
-kore1280--to,kore1280,Marker: -to,
-basq1248-bat,basq1248,Marker: bat,
-basq1248--bait,basq1248,Marker: -bait,
-basq1248-edo--nahi,basq1248,Marker: edo-/-nahi,
-basq1248-i-,basq1248,Marker: i-,
-mand1415-nonegenericnouns,mand1415,Marker: (none; generic nouns),
-dutc1256-danook,dutc1256,Marker: dan ook,
-icel1247-ein-,icel1247,Marker: ein-,
-apam1237-nonebarewh,apam1237,Marker: (none; bare WH),
+stan1295-etwas,stan1295,Marker: etwas,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’
+stan1295-irgend,stan1295,Marker: irgend,Meaning: ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’; ‘comparative’; ‘free choice’
+stan1295-je,stan1295,Marker: je,Meaning: ‘question’; ‘conditional’; ‘indirect negation’; ‘comparative’
+stan1295-jeder,stan1295,Marker: jeder,Meaning: ‘indirect negation’; ‘comparative’; ‘free choice’
+stan1295-n-,stan1295,Marker: n-,Meaning: ‘direct negation’
+dutc1256-enig,dutc1256,Marker: enig,Meaning: ‘question’; ‘conditional’; ‘indirect negation’; ‘comparative’
+dutc1256-iets,dutc1256,Marker: iets,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’
+dutc1256-niets,dutc1256,Marker: niets,Meaning: ‘direct negation’
+stan1293-any,stan1293,Marker: any,Meaning: ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’; ‘comparative’; ‘free choice’
+stan1293-ever,stan1293,Marker: ever,Meaning: ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’; ‘comparative’
+stan1293-no,stan1293,Marker: no,Meaning: ‘direct negation’
+stan1293-some,stan1293,Marker: some,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’
+swed1254-ingen,swed1254,Marker: ingen,Meaning: ‘direct negation’
+swed1254-nagon,swed1254,Marker: nagon,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’; ‘comparative’
+swed1254-somhelst,swed1254,Marker: som helst,Meaning: ‘comparative’; ‘free choice’
+icel1247-enginn,icel1247,Marker: enginn,Meaning: ‘direct negation’
+icel1247-n-,icel1247,Marker: n-,Meaning: ‘indirect negation’; ‘direct negation’
+icel1247-nokkur,icel1247,Marker: nokkur,Meaning: ‘question’; ‘indirect negation’; ‘comparative’
+icel1247-semer,icel1247,Marker: sem er,Meaning: ‘free choice’
+lati1261-ali-,lati1261,Marker: ali-,Meaning: ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’
+lati1261--dam,lati1261,Marker: -dam,Meaning: ‘specific known’
+lati1261--libet,lati1261,Marker: -libet,Meaning: ‘free choice’
+lati1261-n-,lati1261,Marker: n-,Meaning: ‘direct negation’
+lati1261--quam,lati1261,Marker: -quam,Meaning: ‘question’; ‘conditional’; ‘indirect negation’; ‘comparative’
+lati1261--vis,lati1261,Marker: -vis,Meaning: ‘free choice’
+port1283-alg-,port1283,Marker: alg-,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’
+port1283-n-,port1283,Marker: n-,Meaning: ‘indirect negation’; ‘direct negation’
+port1283-qualquer,port1283,Marker: qualquer,Meaning: ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’; ‘comparative’; ‘free choice’
+stan1289-algun,stan1289,Marker: algun,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’
+stan1289-cap,stan1289,Marker: cap,Meaning: ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’; ‘comparative’
+stan1289-qualsevol,stan1289,Marker: qualsevol,Meaning: ‘comparative’; ‘free choice’
+stan1290-nimporte,stan1290,Marker: n'importe,Meaning: ‘comparative’; ‘free choice’
+stan1290-personne,stan1290,Marker: personne,Meaning: ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’; ‘comparative’
+stan1290-quecesoit,stan1290,Marker: que ce soit,Meaning: ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’; ‘comparative’; ‘free choice’
+stan1290-quelque,stan1290,Marker: quelque,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’
+ital1282-nessuno,ital1282,Marker: nessuno,Meaning: ‘question’; ‘indirect negation’; ‘direct negation’
+ital1282-qualche,ital1282,Marker: qualche,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’
+ital1282--unque,ital1282,Marker: -unque,Meaning: ‘comparative’; ‘free choice’
+roma1327-ni-,roma1327,Marker: ni-,Meaning: ‘indirect negation’; ‘direct negation’
+roma1327-ori-,roma1327,Marker: ori-,Meaning: ‘comparative’; ‘free choice’
+roma1327--va,roma1327,Marker: -va,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’
+roma1327-vre-un,roma1327,Marker: vre-un,Meaning: ‘question’; ‘conditional’; ‘indirect negation’
+mode1248--dhipote,mode1248,Marker: -dhipote,Meaning: ‘conditional’; ‘comparative’; ‘free choice’
+mode1248-ka-,mode1248,Marker: ka-,Meaning: ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’
+mode1248-tipota,mode1248,Marker: tipota,Meaning: ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’
+bulg1262-ni-,bulg1262,Marker: ni-,Meaning: ‘indirect negation’; ‘direct negation’
+bulg1262-nja-,bulg1262,Marker: nja-,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’
+bulg1262--toidae,bulg1262,Marker: -toidae,Meaning: ‘conditional’; ‘indirect negation’; ‘comparative’; ‘free choice’
+sout1528-bilo,sout1528,Marker: bilo,Meaning: ‘question’; ‘conditional’; ‘indirect negation’; ‘comparative’; ‘free choice’
+sout1528-i-,sout1528,Marker: i-,Meaning: ‘question’; ‘conditional’; ‘indirect negation’; ‘comparative’
+sout1528-ne-,sout1528,Marker: ne-,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’
+sout1528-ni-,sout1528,Marker: ni-,Meaning: ‘direct negation’
+poli1260--kolwiek,poli1260,Marker: -kolwiek,Meaning: ‘question’; ‘conditional’; ‘indirect negation’; ‘comparative’; ‘free choice’
+poli1260-ni-,poli1260,Marker: ni-,Meaning: ‘direct negation’
+poli1260--s,poli1260,Marker: -s,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’
+russ1263-bytonibylo,russ1263,Marker: by to ni bylo,Meaning: ‘conditional’; ‘indirect negation’; ‘comparative’
+russ1263-koe-,russ1263,Marker: koe-,Meaning: ‘specific known’
+russ1263--libo,russ1263,Marker: -libo,Meaning: ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’; ‘comparative’
+russ1263-ni-,russ1263,Marker: ni-,Meaning: ‘direct negation’
+russ1263--nibud,russ1263,Marker: -nibud,Meaning: ‘irrealis non-specific’; ‘question’; ‘conditional’
+russ1263--to,russ1263,Marker: -to,Meaning: ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’
+russ1263-ljubojugodno,russ1263,Marker: ljuboj/ugodno,Meaning: ‘free choice’
+lith1251-bet,lith1251,Marker: bet,Meaning: ‘comparative’; ‘free choice’
+lith1251-joks,lith1251,Marker: joks,Meaning: ‘indirect negation’; ‘direct negation’
+lith1251-kai,lith1251,Marker: kai,Meaning: ‘specific known’
+lith1251-kaz-,lith1251,Marker: kaz-,Meaning: ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’
+lith1251-nie-,lith1251,Marker: nie-,Meaning: ‘direct negation’
+lith1251-nors,lith1251,Marker: nors,Meaning: ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’; ‘comparative’
+latv1249-jeb,latv1249,Marker: jeb,Meaning: ‘indirect negation’; ‘comparative’; ‘free choice’
+latv1249-kaut,latv1249,Marker: kaut,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’
+latv1249-ne-,latv1249,Marker: ne-,Meaning: ‘direct negation’
+iris1253-arbithaon,iris1253,Marker: ar bith /aon,Meaning: ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’; ‘comparative’; ‘free choice’
+iris1253-dada,iris1253,Marker: dada,Meaning: ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’; ‘comparative’
+iris1253-eigin,iris1253,Marker: eigin,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’
+osse1243--doer,osse1243,Marker: -doer,Meaning: ‘specific known’; ‘specific unknown’
+osse1243--doeriddoer,osse1243,Marker: -doeriddoer,Meaning: ‘comparative’; ‘free choice’
+osse1243-is-,osse1243,Marker: is-,Meaning: ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’
+osse1243-ma-ni-,osse1243,Marker: ma-/ni-,Meaning: ‘direct negation’
+west2369-hic,west2369,Marker: hic,Meaning: ‘question’; ‘indirect negation’; ‘direct negation’
+west2369--i,west2369,Marker: -i,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’
+hind1269-bhii,hind1269,Marker: bhii,Meaning: ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’; ‘comparative’; ‘free choice’
+hind1269-koii,hind1269,Marker: koii,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’
+nucl1301-bir,nucl1301,Marker: bir,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’
+nucl1301-herhangi,nucl1301,Marker: herhangi,Meaning: ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’; ‘comparative’; ‘free choice’
+nucl1301-hic,nucl1301,Marker: hiç,Meaning: ‘question’; ‘indirect negation’; ‘direct negation’
+kaza1248-alde-,kaza1248,Marker: älde-,Meaning: ‘specific known’; ‘specific unknown’
+kaza1248-bir,kaza1248,Marker: bir,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’
+kaza1248-bolsada,kaza1248,Marker: bolsa da,Meaning: ‘question’; ‘conditional’; ‘comparative’; ‘free choice’
+kaza1248-es,kaza1248,Marker: es,Meaning: ‘direct negation’
+yaku1245-bayarar,yaku1245,Marker: bayarar,Meaning: ‘free choice’
+yaku1245--da,yaku1245,Marker: -da,Meaning: ‘indirect negation’; ‘direct negation’; ‘comparative’; ‘free choice’
+yaku1245-eme,yaku1245,Marker: eme,Meaning: ‘irrealis non-specific’; ‘question’; ‘conditional’
+yaku1245-ere,yaku1245,Marker: ere,Meaning: ‘specific known’; ‘specific unknown’
+hung1274-akar-bar-,hung1274,Marker: akar-/bar-,Meaning: ‘conditional’; ‘indirect negation’; ‘comparative’; ‘free choice’
+hung1274-sem,hung1274,Marker: sem,Meaning: ‘direct negation’
+hung1274-vala-,hung1274,Marker: vala-,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’
+finn1318-eras,finn1318,Marker: eräs,Meaning: ‘specific known’
+finn1318-hyvansa,finn1318,Marker: hyvänsä,Meaning: ‘conditional’; ‘comparative’; ‘free choice’
+finn1318--kaan,finn1318,Marker: -kaan,Meaning: ‘question’; ‘indirect negation’; ‘direct negation’; ‘comparative’
+finn1318--kin,finn1318,Marker: -kin,Meaning: ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’
+nana1257--daa,nana1257,Marker: -daa,Meaning: ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’; ‘comparative’
+nana1257--daaxemaja,nana1257,Marker: -daa xem aja,Meaning: ‘free choice’
+nana1257--nuu,nana1257,Marker: -nuu,Meaning: ‘specific known’; ‘specific unknown’
+lezg1247-sawhjatani,lezg1247,Marker: sa WH jat'ani,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’
+lezg1247-sax-ni,lezg1247,Marker: sa X-ni,Meaning: ‘indirect negation’; ‘direct negation’
+lezg1247-xajitani,lezg1247,Marker: xajit'ani,Meaning: ‘comparative’; ‘free choice’
+malt1254-ebda,malt1254,Marker: ebda,Meaning: ‘indirect negation’; ‘direct negation’; ‘comparative’
+malt1254-xi,malt1254,Marker: xi,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’
+hebr1245-afsum,hebr1245,Marker: af/sum,Meaning: ‘indirect negation’; ‘direct negation’
+hebr1245-is,hebr1245,Marker: is,Meaning: ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’
+hebr1245-kol,hebr1245,Marker: kol,Meaning: ‘comparative’; ‘free choice’
+hebr1245-sehu,hebr1245,Marker: sehu,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’
+haus1257-koo,haus1257,Marker: koo,Meaning: ‘indirect negation’; ‘direct negation’; ‘comparative’; ‘free choice’
+haus1257-wani,haus1257,Marker: wani,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’
+swah1253-cl-ocl-ote,swah1253,Marker: CL-o Cl-ote,Meaning: ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’; ‘comparative’; ‘free choice’
+swah1253-nonegenericnouns,swah1253,Marker: (none; generic nouns),Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’
+nucl1302-ara-,nucl1302,Marker: ara-,Meaning: ‘direct negation’
+nucl1302--me,nucl1302,Marker: -me,Meaning: ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’; ‘comparative’
+nucl1302--yac,nucl1302,Marker: -yac,Meaning: ‘specific known’; ‘specific unknown’
+nucl1305--aadarun,nucl1305,Marker: -aadarun,Meaning: ‘irrealis non-specific’; ‘question’; ‘conditional’
+nucl1305--oo,nucl1305,Marker: -oo,Meaning: ‘specific unknown’
+nucl1305--uu,nucl1305,Marker: -uu,Meaning: ‘indirect negation’; ‘direct negation’; ‘comparative’; ‘free choice’
+mand1415-nonebarewh,mand1415,Marker: (none; bare WH),Meaning: ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’
+mand1415-renhe,mand1415,Marker: renhe,Meaning: ‘indirect negation’; ‘direct negation’; ‘comparative’; ‘free choice’
+mand1415-yedou,mand1415,Marker: ye/dou,Meaning: ‘direct negation’
+apam1237--pis,apam1237,Marker: -pis,Meaning: ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’; ‘comparative’; ‘free choice’
+nucl1643--demo,nucl1643,Marker: -demo,Meaning: ‘free choice’
+nucl1643--ka,nucl1643,Marker: -ka,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’
+nucl1643--mo,nucl1643,Marker: -mo,Meaning: ‘indirect negation’; ‘direct negation’; ‘comparative’
+kore1280-barewh-nka,kore1280,Marker: bare WH/-nka,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’
+kore1280--na-tunci,kore1280,Marker: -na/-tunci,Meaning: ‘free choice’
+kore1280--to,kore1280,Marker: -to,Meaning: ‘indirect negation’; ‘direct negation’; ‘comparative’
+basq1248-bat,basq1248,Marker: bat,Meaning: ‘specific known’
+basq1248--bait,basq1248,Marker: -bait,Meaning: ‘specific unknown’; ‘irrealis non-specific’
+basq1248-edo--nahi,basq1248,Marker: edo-/-nahi,Meaning: ‘comparative’; ‘free choice’
+basq1248-i-,basq1248,Marker: i-,Meaning: ‘question’; ‘conditional’; ‘indirect negation’; ‘direct negation’; ‘comparative’
+mand1415-nonegenericnouns,mand1415,Marker: (none; generic nouns),Meaning: ‘specific known’; ‘specific unknown’
+dutc1256-danook,dutc1256,Marker: dan ook,Meaning: ‘irrealis non-specific’; ‘question’; ‘conditional’; ‘indirect negation’; ‘comparative’; ‘free choice’
+icel1247-ein-,icel1247,Marker: ein-,Meaning: ‘specific known’; ‘specific unknown’; ‘irrealis non-specific’; ‘question’; ‘conditional’
+apam1237-nonebarewh,apam1237,Marker: (none; bare WH),Meaning: ‘specific known’; ‘specific unknown’
