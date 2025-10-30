@@ -1,4 +1,5 @@
 import pathlib
+import re
 import unicodedata
 from collections import defaultdict
 from itertools import chain
@@ -25,7 +26,9 @@ def make_parameters(csv_rows):
 
 def make_languages(data, glottolog):
     gc2name = {row['Glottocode']: row['language'] for row in data}
-    languoids = glottolog.languoids(ids=gc2name)
+    languoids = sorted(
+        glottolog.languoids(ids=gc2name),
+        key=lambda lg: lg.id)
     return [
         {
             'ID': lg.id,
@@ -111,6 +114,22 @@ def make_lvalues(data, lparameters):
         for (glottocode, param_id), param_forms in forms.items()]
 
 
+def add_construction_descriptions(constructions, cvalues, parameters):
+    param_meanings = {
+        param['ID']: re.fullmatch('Expresses (‘[^’]+’)', param['Name']).group(1)
+        for param in parameters.values()}
+
+    construction_meanings = defaultdict(list)
+    for val in cvalues:
+        if val['Value'] == 'yes':
+            meaning = param_meanings[val['Parameter_ID']]
+            construction_meanings[val['Construction_ID']].append(meaning)
+
+    for construction in constructions.values():
+        meanings = '; '.join(construction_meanings[construction['ID']])
+        construction['Description'] = f'Meaning: {meanings}'
+
+
 def make_schema(cldf):
     cldf.add_component('LanguageTable')
     cldf.add_component('ParameterTable')
@@ -178,6 +197,7 @@ class Dataset(BaseDataset):
         ccodes = make_ccodes(cparameters)
         cvalues = make_cvalues(raw_data, constructions, cparameters)
         lvalues = make_lvalues(raw_data, lparameters)
+        add_construction_descriptions(constructions, cvalues, cparameters)
 
         # write cldf
 
