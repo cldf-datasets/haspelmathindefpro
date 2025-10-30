@@ -98,7 +98,7 @@ def make_lvalues(data, lparameters):
     for row in data:
         glottocode = row['Glottocode']
         form = row['form']
-        for colname, cell in row.items():
+        for colname in row:
             if (param := lparameters.get(colname)):
                 forms[glottocode, param['ID']].append(form)
     return [
@@ -145,7 +145,7 @@ class Dataset(BaseDataset):
             dir=self.cldf_dir,
             metadata_fname='cldf-metadata.json')
 
-    def cmd_download(self, args):
+    def cmd_download(self, _args):
         """
         Download files to the raw/ directory. You can use helpers methods of `self.raw_dir`, e.g.
 
