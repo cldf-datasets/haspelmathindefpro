@@ -98,7 +98,6 @@ def rescue_unicode_chars(word, glottocode):
         word = word.replace('t3', 'ț')
         # not a haček but a breve
         word = word.replace(r'a;\D\fo1(', 'ă')
-        # ) <= vim is stupid sometimes
     elif glottocode == 'poli1260':
         # polish
         word = word.replace('e4', 'ę')
@@ -107,18 +106,15 @@ def rescue_unicode_chars(word, glottocode):
         word = word.replace('z%', 'ż')
         # not a haček but a kropka
         word = word.replace(r';\D\fo1(', chr(0x0301))
-        # ) <= vim is stupid sometimes
     elif glottocode == 'sout1528':
         # serbo-croatian
         word = word.replace(r'istuc;\D\fo1(i', 'istući')
-        # ) <= vim is stupid sometimes
     elif glottocode == 'lith1251':
         # lithuanian
         word = re.sub('^ka4?$', 'ką', word)
         word = word.replace('u4', 'ų')
         word = word.replace('e%', 'ė')
         word = re.sub(r'^s;\\D\\fo1\(ia$', 'šią', word)
-        # ) <= vim is stupid sometimes
         word = re.sub('^problema$', 'problemą', word)
         word = re.sub('^nauju$', 'naujų', word)
         word = re.sub('^pusiu$', 'pusių', word)
@@ -131,7 +127,6 @@ def rescue_unicode_chars(word, glottocode):
         # not a haček but a macron
         word = re.sub(r'([aeiou]);\\D\\fo1\(', f'\\1{chr(0x0304)}', word)
         word = re.sub(r'^([vV])ins;\\D\\fo1\(', r'\1iņš', word)
-        # )) <= vim is stupid sometimes
         word = re.sub(r'^([vV])inu', r'\1iņu', word)
         word = re.sub('^pārmainām$', r'pārmaiņām', word)
         word = word.replace('a@', 'ā')
@@ -142,13 +137,11 @@ def rescue_unicode_chars(word, glottocode):
         # hindi
         # not a haček but a tilde
         word = re.sub(r'([aeiou]);\\D\\fo1\(', f'\\1{chr(0x0303)}', word)
-        # ) <= vim is stupid sometimes
         word = word.replace('lark', 'laṛk')
     elif glottocode == 'nucl1301':
         # turkish
         # not a haček but a breve
         word = word.replace(r'g;\D\fo1(', 'ğ')
-        # ) <= vim is stupid sometimes
         word = word.replace('s3', 'ş')
     elif glottocode in {'kaza1248', 'yaku1245'}:
         # kazakh and yakut
@@ -158,13 +151,11 @@ def rescue_unicode_chars(word, glottocode):
         # lezgian
         # not a haček but a circumflex
         word = word.replace(r'x;\D\fo1(', 'x̂')
-        # ) <= vim is stupid sometimes
         word = word.replace('qh', 'qʰ')
     elif glottocode == 'malt1254':
         # check maltese
         # not a haček but a dot above
         word = word.replace(r';\S\up4(\D\fo2(', chr(0x0307))
-        # )) <= vim is stupid sometimes
         word = word.replace('Ì', 'ħ')
     elif glottocode == 'hebr1245':
         # hebrew
@@ -178,7 +169,6 @@ def rescue_unicode_chars(word, glottocode):
     elif glottocode == 'nucl1305':
         # kannada
         word = word.replace(r's;\D\fo1(', 'ś')
-        # ) <= vim is stupid sometimes
         word = word.replace('d5', 'ḍ')
         word = word.replace('l5', 'ḷ')
     elif glottocode == 'mand1415':
@@ -192,14 +182,12 @@ def rescue_unicode_chars(word, glottocode):
         word = re.sub(r'^co;\\D\\fo1\(ngmíng\.?$', 'cōngmíng', word)
         word = re.sub(r'^yi;\\D\\fo1\(ge$', 'yīge', word)
         word = re.sub(r'^nánshe;\\D\\fo1\(ng$', 'nánshēng', word)
-        # )))))))))) <= vim is stupid sometimes
 
     # haček (hopefully)
     word = word.replace(r'i;\D\fo1(', 'ǐ')
     word = word.replace(r';\D\fo1(', chr(0x030C))
     word = word.replace(r';\S\up2(\D\fo1(', chr(0x030C))
     word = word.replace(r';\S\up2(\D\fo2(', chr(0x030C))
-    # )))))) <= vim is stupid sometimes
 
     # get rid of the combining diacritics
     return unicodedata.normalize('NFC', word)
@@ -447,7 +435,6 @@ def make_lvalues(data, lparameters, examples):
         'unknown': ['specific unknown'],
     }
     param_examples = defaultdict(list)
-    errors = []
     for ex in examples:
         colname = ex['Parameter_ID']
         glottocode = ex['Language_ID']
