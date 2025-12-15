@@ -4,6 +4,7 @@ import unicodedata
 from collections import defaultdict, namedtuple
 from itertools import chain, islice, zip_longest
 
+from simplepybtex.database import parse_file
 from cldfbench import Dataset as BaseDataset, CLDFSpec
 
 
@@ -486,7 +487,7 @@ def glosses_are_aligned(example, languages):
         return False
 
 
-def make_languages(data, glottolog):
+def make_languages(data, language_sources, glottolog):
     gc2name = {row['Glottocode']: row['language'] for row in data}
     languoids = sorted(
         glottolog.languoids(ids=gc2name),
@@ -500,6 +501,8 @@ def make_languages(data, glottolog):
             'Latitude': lg.latitude,
             'Longitude': lg.longitude,
             'Macroarea': lg.macroareas[0].name if lg.macroareas else '',
+            'Source': re.split(r'\s*;\s*', language_sources[lg.id]['Source']),
+            'Source_comment': language_sources[lg.id]['Source_comment'],
         }
         for lg in languoids]
 
@@ -614,7 +617,10 @@ def add_construction_descriptions(constructions, cvalues, parameters):
 
 
 def make_schema(cldf):
-    cldf.add_component('LanguageTable')
+    cldf.add_component(
+        'LanguageTable',
+        'http://cldf.clld.org/v1.0/terms.rdf#source',
+        'Source_comment')
     cldf.add_component('ParameterTable')
     cldf.add_component('CodeTable')
     cldf.add_columns(
@@ -690,12 +696,16 @@ class Dataset(BaseDataset):
             'lparameters.csv', dicts=True))
         with open(self.raw_dir / 'examples.txt', encoding='utf-8') as f:
             examples = make_examples(extract_examples(f))
+        language_sources = {
+            row['Glottocode']: row
+            for row in self.etc_dir.read_csv('language-sources.csv', dicts=True)}
+        sources = parse_file(self.raw_dir / 'sources.bib', 'bibtex')
 
         # make cldf
 
         languages = {
             lg['ID']: lg
-            for lg in make_languages(raw_data, args.glottolog.api)}
+            for lg in make_languages(raw_data, language_sources, args.glottolog.api)}
         for example in examples:
             transform_glosses(example)
         examples = [ex for ex in examples if glosses_are_aligned(ex, languages)]
@@ -717,3 +727,4 @@ class Dataset(BaseDataset):
         args.writer.objects['ValueTable'] = lvalues
         args.writer.objects['constructions.csv'] = constructions.values()
         args.writer.objects['cvalues.csv'] = cvalues
+        args.writer.cldf.add_sources(sources)
