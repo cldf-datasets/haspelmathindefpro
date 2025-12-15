@@ -3,64 +3,93 @@ German
 
 specific known
 		Ich habe etwas <*irgend etwas> verloren. Rate mal, was!
+		I	have	something	<any	thing>		lost	guess	pcl	what
 			‘I lost something. Guess what!’
+		(personal knowledge)
 
 specific unknown
-		Ich habe etwas/irgend etwas verloren, aber ich weiss nicht, was.
+		Ich habe etwas	/	irgend etwas verloren, aber ich weiss nicht, was.
+		I	have	something	/	indef	something	lost	but	I	know	not	what
 			‘I lost something, but I don’t know what.’
+		(personal knowledge)
 
 irrealis non-specific
-		Sie möchte jemanden/irgend jemanden mit schwarzen Haaren heiraten.
+		Sie möchte jemanden	/	irgend jemanden mit schwarzen Haaren heiraten.
+		she	wants	someone	/	indef	someone	with	black	hairs	marry
 		‘She wants to marry someone [non-specific/specific] with black hair.’
+		(personal knowledge)
 
 question
-		Hast du (irgend) etwas gehört?	
+		Hast du (irgend) etwas gehört?
+		have	you	indef	something	heard
 			‘Did you hear anything?’
+		(personal knowledge)
 
 question
-		Ist sie irgend-wann/je in Chittagong gewesen?
+		Ist sie irgend-wann	/	je in Chittagong gewesen?
+		is	she	indef-when	/	ever	in	Chittagong	been
 			‘Has she ever been to Chittagong?’
+		(personal knowledge)
 
 conditional
 		Wenn (irgend) jemand anruft, sag mir Bescheid!
+		if indef someone calls tell me information
 			‘If anyone calls, tell me!’
+		(personal knowledge)
 
 indirect negation
-		Ich glaube nicht, dass hier je/irgend-wann (irgend) jemand war.
+		Ich glaube nicht, dass hier je	/	irgend-wann (irgend) jemand war.
+		I	think	not	that	here	ever	indef-when	indef	someone was
 		'I don't think that anyone has ever been here.'
+		(personal knowledge)
 
 comparative
-	Joan Baez sang besser als irgend jemand je zuvor.
+		Joan Baez sang besser als irgend jemand je zuvor.
+		Joan	Baez	sang	better	than	any	one	ever	before
 		‘Joan Baez sang better than anyone ever before.’
+		(personal knowledge)
 
 free choice
 		Dieses Problem kann irgend jemand lösen.
+		this	problem	can	any	one	solve
 		‘This problem can be solved by anyone.’
+		(personal knowledge)
 
-
-free choice	
+free choice
 		Dieses Problem kann jeder lösen.
+		this	problem	can	everyone	solve
 		‘This problem can be solved by anyone.’
+		(personal knowledge)
 
 comparative
 		Joan Baez singt besser als jede andere Sängerin.
+		Joan	Baez	sings	better	than	every	other	singer
 		‘Joan Baez sings better than any other singer.’
+		(personal knowledge)
 
 indirect negation
 		ohne jede/irgend-welche Hilfe
+		without	every/any-one	help
 			‘without any help’
+		(personal knowledge)
 
 indirect negation
 		Sie stritt jede/irgend-eine Beteilingung ab.
+		she	denied	every/any-one	participation	off
 			‘She denied any participation.’
+		(personal knowledge)
 
 direct negation
 		Niemand ist gekommen.
+		nobody	has	come
 			‘Nobody has come.’
+		(personal knowledge)
 
 direct negation
 		Ich habe niemandem (irgend) etwas gesagt.
+		I	have	nobody	any	thing	said
 			‘I didn’t tell anything to anybody.’
+		(personal knowledge)
 
 
 dutc1256
@@ -68,84 +97,97 @@ Dutch
 
 specific known/unknown
 	Er heeft vanmorgen iemand opgebeld. (Raad eens wie./ Ik weet niet meer wie het was.)
+	pcl has	today someone called guess pcl who/ I know not more who it was
 	‘Someone phoned this morning. (Guess who./ I don’t remember who it was.)’
 
 irrealis non-specific
-	Koop iets/wat dan ook voor haar verjaardag. 
+	Koop iets/wat dan ook voor haar verjaardag.
+	buy anything/what then als for her birthday
 	‘Buy something for her birthday.’
 
 question
-	Zou er nog iemand/wie dan ook komen? 
+	Zou er nog iemand/wie dan ook komen?
+	will pcl else anyone/who then also come
 		‘Will anyone else come?’
-		(G84: 265)
+		geerts1984[265]
 
 conditional
-	Als je iets/wat dan ook ziet, waarschuw me dan. 
+	Als je iets/wat dan ook ziet, waarschuw me dan.
+	if you anything/what then also see tell me then
 		‘If you see anything, tell me.’
 
 indirect negation
 	zonder iemand/wie dan ook
-		‘without anybody’
+	without anyone/who then also
+	‘without anybody’
 
 indirect negation
-	Het is moeilijk om iets/wat dan ook te zien. 
-		‘It is difficult to see anything.’
+	Het is moeilijk om iets/wat dan ook te zien.
+	it is difficult for anything/what then also to see
+	‘It is difficult to see anything.’
 
 comparative
-	De jongen loopt harder dan wie dan ook in zijn klass. 
+	De jongen loopt harder dan wie dan ook in zijn klass.
+	the boy runs faster than who then also in his class
 	‘The boy runs faster than anyone in his class.’
 
 free choice
-	Je mag wie dan ook uitnodigen. 
+	Je mag wie dan ook uitnodigen.
+	you may who then also invite
 	‘You may invite anyone.’
 
 direct negation
 	Niemand heeft opgebeld.
+	nobody has called
 	‘Nobody called.’
 
 comparative
-	Het is nu kouder dan in enige vorige winter. 
+	Het is nu kouder dan in enige vorige winter.
+	it is now colder than in any previous winter
 	‘It is now colder than in any previous winter.’
-	(G84: 275)
+	geerts1984[275]
 
 indirect negation
 	zonder enige help
+	without any help
 	‘without any help’
 
 question
-		Heeft hij enig succes gehad met al zijn pogingen? 
-		‘Has he had any success with all his attempts?’
-		(G84: 275)
+	Heeft hij enig succes gehad met al zijn pogingen?
+	has he any success had with all his attempts
+	‘Has he had any success with all his attempts?’
+	geerts1984[275]
 
 conditional
-	Als hij enig succes heeft, dan komt dat door zijn goede kontakten. 
-		‘If he has any success, that is due to his good connections.’
+	Als hij enig succes heeft, dan komt dat door zijn goede kontakten.
+	if he any success has then comes that through his good contacts
+	‘If he has any success, that is due to his good connections.’
 
 swed1254
 Swedish
 
 specific known
-		Jag	har	ännu	något	att	tala	med	honom	om. 
+		Jag	har	ännu	något	att	tala	med	honom	om.
 		I	have	still	something	to	talk	with	him	about
 		‘I still have something to talk to him about.’
 
 specific unknown
-		Någon,	jag	minns	inte	vem,	säger... 
+		Någon,	jag	minns	inte	vem,	säger...
 		somebody	I	remember	not	who	says
 		‘Somebody, I don’t recall who, says...’
 
 irrealis non-specific
-	Någon	gång	får	han	nog	erfara. 
+	Någon	gång	får	han	nog	erfara.
 	some	time	gets	he	enough	experience
 	‘Sometime he will learn.’
 
 question
-		Har	du	hört	något	<*vad som helst>? 
+		Har	du	hört	något	<*vad som helst>?
 		have	you	heard	something	anything
 		‘Did you hear anything?’
 
 conditional
-		Om	du	hör	någonting	<*vad_som_helst>,	väck	mig. 
+		Om	du	hör	någonting	<*vad_som_helst>,	väck	mig.
 		if	you	hear	something	anything	wake	me
 		‘If you hear anything, wake me up.’
 
@@ -155,24 +197,24 @@ indirect negation
 	‘I don’t think that anyone knows that.’
 
 comparative
-	Den	här	pojken	springer	fortare	än	någon/	vem	som helst	annan	i	klass-en.	
+	Den	här	pojken	springer	fortare	än	någon/	vem	som helst	annan	i	klass-en.
 	this	here	boy	runs	faster	than	anyone	who	indef	other	in	class-art
 	‘This boy runs faster than anyone in his class.’
 
 direct negation
-		Ingen	har	sett	mig. 	(*Någon	har	inte	sett	mig.) 
+		Ingen	har	sett	mig. 	(*Någon	har	inte	sett	mig.)
 		none	has	seen	me		some	has	not	seen	me
 		‘Nobody has seen me.’
 
 direct negation
-		Jag	har	aldrig	hört	någon	opera. 
+		Jag	har	aldrig	hört	någon	opera.
 		I	have	never	heard	any	opera
 		‘I never heard any opera.’
 
 direct negation
-		Jag	vet	inte	något.				
-		I	know	not	anything				
-		‘I do not know anything.’				
+		Jag	vet	inte	något.
+		I	know	not	anything
+		‘I do not know anything.’
 
 direct negation
 	Jag	vet		ingenting.
@@ -182,7 +224,7 @@ direct negation
 free choice
 		Du	kan	fråga	vem	som helst.
 		you	can	ask	who	indef
-		‘You can ask anyone.’	
+		‘You can ask anyone.’
 
 comparative
 			Skivor	är	dyrare	än	någonsin.
@@ -198,22 +240,22 @@ specific known
 		it	rang	one-who	man	in	me	in	morning	and	I	say	you	not	who
 		‘Someone called me up this morning (but I won’t tell you who).’
 
-specific unknown	
+specific unknown
 		Strákur-inn	sá	eitt-hvaD	á	bak	viD	tréD	(en	ég	veit	ekki	hvaD).
 		boy-the	saw	one-what	on	back	near	tree	and	I	know	not	what
 		‘The boy saw something behind the tree (but I don’t know what).’
 
 irrealis non-specific
-		Kaupta	eitt-hvaD/	*nokkuD	fyrir	mig!	
+		Kaupta	eitt-hvaD/	*nokkuD	fyrir	mig!
 		buy	one-what	anything	for	me
-		‘Buy something for me!’	
+		‘Buy something for me!’
 
 question
 				Sástu	nokkuð/ eitt-hvað?
 				saw:you	anything/ one-what
 				‘Did you see anything/something?’
 
-conditional
+	conditional
 			Ef	ein-hver/	??nokkur	hringir,	viltu	pá	segja	aD	ég	sé	ekki	heima.
 				if	one-who	anyone	rings	will:you	then	say	that	I	am	not	home
 				‘If anyone calls, please say I’m not at home.’
@@ -248,44 +290,43 @@ lati1261
 Latin
 
 specific known
-	Magister,	vidimus	quem-dam	in 	nomine	tuo	ejicientem	daemonia. 
+	Magister,	vidimus	quem-dam	in 	nomine	tuo	ejicientem	daemonia.
 	Master	we:saw	whom-indef	in	name	your	casting.out	devils
-	‘Master, we saw someone casting out devils in thy name.’ 
+	‘Master, we saw someone casting out devils in thy name.’
 	(NT, Mk 9.38)
 
 specific unknown
-	Tetigit	me	ali-quis. 
+	Tetigit	me	ali-quis.
 	touched	me	indef-who
 	‘Somebody hath touched me (for I perceive that virtue is gone out of me).’
 	(NT, Lk 8.46)
 
-
 irrealis non-specific
-	At	ille	intendebat	in	eos,	sperans	se	ali-quid	accepturum	ab	eis 
+	At	ille	intendebat	in	eos,	sperans	se	ali-quid	accepturum	ab	eis
 	but	that	gave.heed	in	them	hoping	self	indef-what	accept:fut	from	them
-	‘And he gave heed unto them, expecting to receive something of them.’ 
+	‘And he gave heed unto them, expecting to receive something of them.’
 	(NT, Act. 3.5)
 
 question
-		Num	quid	simile	populus	Romanus	audierat? 
+		Num	quid	simile	populus	Romanus	audierat?
 		q	what	similar	people	Roman	heard
 		‘Had the Roman people heard anything similar?’
 		(Cic. Lael. 41)
 
-		Licet	mihi	loqui	ali-quid	ad	te? 
+		Licet	mihi	loqui	ali-quid	ad	te?
 		is.allowed	to:me	to:speak	indef-what	to	you
 		‘May I say something to you?’
 		(NT, Acts 21.37)
 
 conditional
-		Si	quid	petieritis	me	in	nomine	meo,	hoc	faciam. 
+		Si	quid	petieritis	me	in	nomine	meo,	hoc	faciam.
 		if	what	you:ask	me	in	name	my	this	I:will:do
 		‘If ye shall ask anything in my name, I will do it.’
 		(NT, John 14.14)
 
-		Et	si	quid	ali-quem	defraudavi,	reddo	quadruplum. 
+		Et	si	quid	ali-quem	defraudavi,	reddo	quadruplum.
 		and	if	what	indef-whom	I:deceived	I:return	fourfold
-		‘And if I have taken anything from any man by false accusation, I restore him 
+		‘And if I have taken anything from any man by false accusation, I restore him
 		fourfold.’
 		(NT, Lk 19.8)
 
@@ -296,43 +337,43 @@ question
 		(NT, Mt 12.29)
 
 conditional
-	Si	quis-quam	est	timidus	in	magnis	periculosis-que	rebus,	is	ego	sum. 
+	Si	quis-quam	est	timidus	in	magnis	periculosis-que	rebus,	is	ego	sum.
 		if	who-indef	is	timid	in	big	dangerous-and	things	this	I	am
-		‘If anyone is timid in important and dangerous situations, it is me.’ 
+		‘If anyone is timid in important and dangerous situations, it is me.’
 		(Cic. Fam. 6.14.1)
 
 comparative
 	Ac	videte	quanto	taetrior	hic	tyrannus	Syracusanis	fuerit	quam	quis-quam	superiorum. (Cic. Verr. 4.123)
-	and	you:see	how.much	more:horrible	this	tyrant	for:Syracusans	was	than	who-indef	of:earlier.ones	
-	‘And you see how much more horrible this tyrant was for the Syracusans than any 
+	and	you:see	how.much	more:horrible	this	tyrant	for:Syracusans	was	than	who-indef	of:earlier.ones
+	‘And you see how much more horrible this tyrant was for the Syracusans than any
 	of the earlier ones.’
 
-indirect negation 
-	Et	non	sinebat	ut	quis-quam	transferret	vas	per	templum. 
+indirect negation
+	Et	non	sinebat	ut	quis-quam	transferret	vas	per	templum.
 	and	neg	admitted	that	who-indef	transferred	vessel	through	temple
-	‘And he would not admit that any man should carry any vessel through the temple.’ 
+	‘And he would not admit that any man should carry any vessel through the temple.’
 	(NT, Mk 11.16)
 
 direct negation
-		Nemo	potest	duobus	dominis	servire. 
+		Nemo	potest	duobus	dominis	servire.
 		nobody	can	two	masters	serve
 		‘Nobody can serve two masters.’
 		(NT, Mt 6.24)
 
 direct negation
-		Nemini	quid-quam	dixerunt. 
+		Nemini	quid-quam	dixerunt.
 		to:nobody	what-indef	they:said
 		‘They did not say anything to anybody.’
 		(NT, Mk 16.8)
 
 free choice
-		Mihi	utrum-vis	satis	est. 
+		Mihi	utrum-vis	satis	est.
 		to:me	which-indef	enough	is
 		‘Either is sufficient for me.’
 		(Cic. Off. 3.33)
 
 free choice
-		Utrum-libet	elige;	alterum	incredibile	est,	alterum	nefarium. 
+		Utrum-libet	elige;	alterum	incredibile	est,	alterum	nefarium.
 		which-indef	choose	one	incredible	is	other	sinful
 		‘Choose either: one is incredible, the other sinful.’
 		(Quint. 81)
@@ -341,7 +382,7 @@ free choice
 port1283
 Portuguese
 
-specific known	
+specific known
 	O	João	telefonou	e	disse	alguma	coisa/	*qualquer	coisa –	adivinhe	o_que!
 	art	João	phoned	and	said	some	thing	any	thing	guess	what
 	‘João called and said something – guess what!’
@@ -362,9 +403,9 @@ irrealis non-specific
 	‘Someone [non-specific] can come along here and take the box.’
 
 question
-		Você	ouve	alguma	coisa/	qualquer	coisa?	
+		Você	ouve	alguma	coisa/	qualquer	coisa?
 		you	hear	some	thing	any	thing
-		‘Can you hear anything?’	
+		‘Can you hear anything?’
 
 conditional
 		Se	você	ouvir	alguma	coisa/	qualquer	coisa,	acorde-me.
@@ -384,7 +425,7 @@ free choice
 indirect negation
 	Liliana	perguntou	isso	sem	encenar	qualquer/	nenhum	charme	sensual.
 	Liliana	asked	that	without	showing	any	no	charm	sensual
-	‘Liliana asked this without showing any sensual charm.’	
+	‘Liliana asked this without showing any sensual charm.’
 
 direct negation
 		Não	contém	qualquer	sentimento	nobre.
@@ -395,15 +436,15 @@ direct negation
 		Ninguém	veio./	Não	veio	ninguém.
 		nobody	came	not	came	nobody
 		‘Nobody came.’
-  
+
 stan1289
 Catalan
 
 specific
-	Alguna	vegada	he	vist	algú	en	algun	lloc. 
+	Alguna	vegada	he	vist	algú	en	algun	lloc.
 	some	time	I:have	seen	someone	in	some	place
 	‘I once saw somebody somehwere.’
-	(S73: 92)
+		sola1973[92]
 
 irrealis non-specific
 	Algun	dia	ho	entendràs.
@@ -411,34 +452,34 @@ irrealis non-specific
 	‘Some day you’ll understand.’
 
 question
-	Hi	ha	res/	alguna	cosa	de	nou? 
+	Hi	ha	res/	alguna	cosa	de	nou?
 		there	exists	anything	some	thing	of	new
 		‘Is there anything/something new?’
-		(E88: 105)
+		esposito1988[105]
 
 conditional
-		Si	hi	hagués	ningú/	algú	de	Barcelona,	li	podríem	demanar. 
+		Si	hi	hagués	ningú/	algú	de	Barcelona,	li	podríem	demanar.
 		if	there	existed	anyone	someone	from Barcelona	him	we:coulf	ask
-		‘If there were anyone/someone from Barcelona, we could ask him.’ 
-		(H92: 163)
+		‘If there were anyone/someone from Barcelona, we could ask him.’
+	hualde1992[163]
 
 indirect negation
-	Nega	que	hagui	arrivat	ningú/	algú. 
+	Nega	que	hagui	arrivat	ningú/	algú.
 	denies	that	have	arrived	anyone	someone
 	‘She denies that anyone has arrived.’
-	(E88: 105)
+	esposito1988[105]
 
 direct negation
-		No	he	vist	mai	ningú	enlloc. 
+		No	he	vist	mai	ningú	enlloc.
 		not	I:have	seen	ever	anyone	anywhere
 		‘I have never seen anybody anywhere.’
-		(S73: 93)
+		sola1973[93]
 
 direct negation
-		Ningú	(no)	ens	ha	vist. 
+		Ningú	(no)	ens	ha	vist.
 		nobody	not	us	has	seen
 		‘Nobody has seen us.’
-		(S73: 93)
+		sola1973[93]
 
 comparative
 	Aqui	el	clima	es	mes	agradable	que	en	qualsevol	altre	lloc/	enlloc	d’	Europa.
@@ -446,101 +487,126 @@ comparative
 	‘Here the climate is more pleasant than anywhere else in Europe.’
 
 free choice
-	La negació expressada per l’adverbi no pot recaure no sobre tota la proposició...sinó sobre una altra qualsevol de las sevas parts. (S73: 94-5)
+	La negació expressada per l’adverbi no pot recaure no sobre tota la proposició... sinó sobre una altra qualsevol de las sevas parts.
+	the negation expressed by the.adverb no can revert not over whole the proposition but over an other anyone of the its parts
 	‘The negation expressed by the adverb no can have scope not over the whole sentence, but over any other of its parts.’
+sola1973[94-95]
 
-	
+
 stan1290
 French
 
 specific known
 			Quelqu’un m’attend. C’est lui que j’épouserai.
+			someone	me.expects it.is him that I.will.marry
 			‘Someone is waiting for me. It’s him that I will marry.’
 
 unknown
 			Quelqu’un est à la porte. Je ne sais pas qui.
+			someone is at the door I not know not who
 			‘Somebody is at the door. I don’t know who.’
 
 irrealis-non-specific
 		Elle veut épouser quelqu’un aux cheveux noirs.
+		she wants marry someone at.the hairs black
 		‘She wants to marry someone with black hair.’
 
 question
 			As-tu écouté quelque chose?
+			have-you heard some thing
 			‘Have you heard anything?’
 
 question
-			Si l’art n’était vraiment qu’un prolongement de la vie, valait-il de lui rien sacrifier? 
+			Si l’art n’était vraiment qu’un prolongement de la vie, valait-il de lui rien sacrifier?
+			if the.art not.were really only.a continuation of the life worth-it to to.it anything sacrifice
 			‘If art were really only a continuation of life, would it be worth sacrificing anything for it?’
-			(G71: 169)
+		gaatone1971[169]
+
 
 question
-			Comment peut-on en conclure quoi que ce soit sur l’ordre de la pensée?	
+			Comment peut-on en conclure quoi que ce soit sur l’ordre de la pensée?
+			how can-one from.it conclude what that it be about the.order of the thinking
 			‘How can one conclude anything from it about the order of thoughts?’
 
 conditional
 			Je vous rends responsable si rien/quelque chose s’ébruite dans la presse.
+			I you hold responsible if anything/some thing transpires in the press
 			‘I hold you responsible if anything transpires in the media.’
 
 conditional
 			Éveillez-moi s’il arrive quoi que ce soit.
+			wake-me if.it happens what that it be
 			‘Wake me up if anything happens.’
 
 direct negation
 			Je ne vois rien.
+			I not see anything
 			‘I cannot see anything.’
 
 direct negation
-			Personne n’ jamais dit rien.
+			Personne n’a jamais dit rien.
+			nobody 	not.has ever said anything
 			‘Nobody ever said anything.’
 
 direct negation
-			Je n’ai vu qui que ce soit. 
+			Je n’ai vu qui que ce soit.
+			I not.have seen who that it be
 			‘I haven’t seen anybody.’
-			(Muller 1991: 256)
+			muller1991[256]
 
 indirect negation
 			Je doute que personne y réussisse.
+			I doubt that anyone in.it succeed
 			‘I doubt that anybody will succeed in it.’
 
 indirect negation
 			J’hésite à rien écrire sur cela/à écrire quoi que ce soit sur cela.
+			I.hesitate to anything write about that/to write what that it be about that
 			‘I hesitate to write anything about that.’
 
 comparative
 			Il parle mieux qu’aucun orateur.
+			he speaks better than.any orator
 			‘He speaks better than any orator.’
 
 comparative
 			Je préfère de beaucoup fermer les yeux que lui reprocher quoi que ce soit qui puisse vous ennuyer.
+			I prefer by much to.close the eyes than him reproach what that it be that could you annoy
 			‘I much prefer to close my eyes than to blame him for anything that could annoy you.’
 
 free choice
 		Vous pouvez dire quoi que ce soit.
+		you can say what that it be
 		‘You can say anything.’
-	
+
 free choice
-			Demandez à quiconque des assistents! 
+			Demandez à quiconque des assistents!
+			ask at anyone of.the assistants
 			‘Ask any of the assistants!’
 
 comparative
-			Je le sais mieux que quiconque. 
+			Je le sais mieux que quiconque.
+			I it know better than anyone
 			‘I know it better than anyone.’
 
 indirect negation
-			Il n’est pas permis de parler de ceci à quiconque. 
-			‘It isn’t possible to talk about this to anyobody.’
+			Il n’est pas permis de parler de ceci à quiconque.
+			it is not permitted to talk of this to anyone
+			‘It isn’t possible to talk about this to anybody.’
 
 conditional
-			Si quiconque insiste pour me parler, dites qu’on m’écrive. 
+			Si quiconque insiste pour me parler, dites qu’on m’écrive.
+			if anyone insists on me talk say that.they me.write
 			‘If anyone insists on talking to me, tell them to write to me.’
 
 free choice
 			Tu peux dire n’importe quoi.
+			you can say no.matter what
 			‘You can say anything.’
 
 comparative
 			Le général avait compris assez tôt que cette guerre, plus que n’importe quelle guerre dans le passé, était une guerre de réserves d’hommes et de matériel.
+			the general had understood pretty soon that this war more than no.matter which war in the past was a war of resources of.people and of material
 			‘The general had understood pretty soon that this war, more than any war in the past, was a war of human and material resources.’
 
 
@@ -549,48 +615,59 @@ Italian
 
 specific known
 	Qualcuno è venuto – indovina chi!
+	someone has come – guess who
 	‘Someone has come – guess who!’
 
 specific unknown
-	Non trovo la penna, eppure in qualche parte l’avrò messa. 
+	Non trovo la penna, eppure in qualche parte l’avrò messa.
+	not I.find the pen and.yet in some place it.I.will.have put
 	‘I can’t find the pen, and yet I must have put it somewhere.’
-	
+
 irrealis non-specific
 	Compra qualcosa per me.
+	buy something for me
 	‘Buy something for your niece.’
-	
+
 question
-	Vedi qualcosa/niente? 
+	Vedi qualcosa/niente?
+	you.see something/anything
 	‘Can you see anything?’
-	
+
 conditional
-	Se senti qualcosa <*niente>, svegliami. 
+	Se senti qualcosa <*niente>, svegliami.
+	if you.hear something (anything) wake.me
 	‘If you hear anything, wake me up.’
-	
+
 indirect negation
-	Non è necessario che venga nessuno/che qualcuno venga. 
+	Non è necessario che venga nessuno / che qualcuno venga.
+	not is necessary that come anyone / that someone come
 	‘It is not necessary that anyone come.’
-	
+
 free choice
 	Puoi andare dovunque.
+	you.can go anywhere
 	‘You can go anywhere.’
-	
+
 comparative
 	Christie ha scritto più romanzi che chiunque altro in questo secolo.
+	Christie has written more novels than anyone other in this century
 	‘Christie has written more novels than anyone else in this century.’
-	
+
 direct negation
 		Non ho veduto nulla.
+		not I.have seen nothing
 		‘I have not seen anything.’
-		
+
 direct negation
 		Nessuno (*non) è venuto.
+		nobody (not) has come
 		‘Nobody has come.’
-		
+
 direct negation
 		Nessun professore ha scritto mai nessun libro.
+		no professor has written ever	any book
 		‘No professor has ever written any book.’
-		
+
 
 roma1327
 Romanian
@@ -599,45 +676,45 @@ specific known
 		Am	cumpa*rat	ce-va,	ghici	ce!
 		I:have	bought	what-indef	guess	what
 		'I have bought something, guess what!'
-		
+
 specific unknown
 		Cine-va	te-a	ca*utat	la	telefon,	dar	nu	i-am	înt3eles	numele.
 		who-indef	you-has	asked	on	phone	but	not	him-have	understood	name
 		'Somebody asked for you on the phone, but I didn't understand the name.'
-		
+
 irrealis non-specific
-	As3	vrea	ce-va	mîncare	s3i	ba;\D\fo1(utura;\D\fo1(. 
+	As3	vrea	ce-va	mîncare	s3i	ba;\D\fo1(utura;\D\fo1(.
 	intj	want	what-indef	to.eat	and	drink
 	‘I want something to eat and to drink.’
-	
+
 question
 		Ai	fost	vreodata*/	cînd-va		la	Chis3ina*u?
 		have	been	ever		when-indef	at	Chis3ina*u
 		'Have you ever been to Chis3ina*u?'
-		
+
 conditional
-		Daca;\D\fo1(	auzi	ce-va/	*ori-ce,	trezes3te-ma*. 
+		Daca;\D\fo1(	auzi	ce-va/	*ori-ce,	trezes3te-ma*.
 		if	you.hear	what-indef	wake-me
 		‘If you hear anything, wake me up.’
-	
+
 comparative
 	Niculina	fuge	mai	repede	decît	ori-ce/	*vre-o	fata*	din	clasa*.
 	Niculina	runs	more	fast	than	indef-what	indef-one	girl	in	class
 	'Niculina runs faster than any girl in her class.'
 
 free choice
-	Se	ga;\D\fo1(seste	în	ori-ce	pra;\D\fo1(va;\D\fo1(lie. 
+	Se	ga;\D\fo1(seste	în	ori-ce	pra;\D\fo1(va;\D\fo1(lie.
 	refl	gets	in	indef-what	shop
 	‘You can get it in any shop.’
 
 indirect negation
-	Nu	mai	îndra;\D\fo1(zneau	sa;\D\fo1(-l	întrebe	nimic. 
+	Nu	mai	îndra;\D\fo1(zneau	sa;\D\fo1(-l	întrebe	nimic.
 	neg	more	they.dared	sbjv-him	ask	nothing
 	‘They did not dare to ask him anything anymore.’
 	(NT, Lk 20.40)
 
 direct negation
-	Nu	ne	angajeaza;\D\fo1(	nimeni. 
+	Nu	ne	angajeaza;\D\fo1(	nimeni.
 	neg	us	hired	nobody
 	‘Nobody has hired us.’
 	(NT, Mt 20.7)
@@ -651,8 +728,8 @@ indirect negation
 	Nu	este	probabil	sa;\D\fo1(	aiba;\D\fo1(	loc	nici	o/	vre-o	noua;\D\fo1(	întrevedere	cu	d.	Molotov.
 	neg	is	probably	sbjv	have	place	neg	one	indef-one	new	interview	with	Mr.	Molotov
 	‘It’s unlikely that there will be any new interview with Mr. Molotov.’
-	(Graur 1939: 174)
- 
+	graur1939[174]
+
 
 mode1248
 Modern Greek
@@ -683,12 +760,12 @@ question
 		‘Did you see anything/something?’
 
 conditional
-	An	dhís	típota/	ká-ti,	pes	mu.	
+	An	dhís	típota/	ká-ti,	pes	mu.
 		if	you:see	anything	indef-what	say:impv	me
 		‘If you see anything/something, tell me.’
 
 direct negation
-	Kanís	dhen	mu	ípe	típota.	
+	Kanís	dhen	mu	ípe	típota.
 	anyone	not	me	said	anything
 	‘Nobody told me anything.’
 
@@ -722,48 +799,48 @@ bulg1262
 Bulgarian
 
 specific unknown
-	Govorix		vc;\D\fo1(era	s	nja-koga	v	avtobusa. 
+	Govorix		vc;\D\fo1(era	s	nja-koga	v	avtobusa.
 	I:talked	yesterday	with	indef-whom	in	the:bus
 	‘Yesterday I talked to someone on the bus.’
 
 specific known
-	Nja-koj	se	obadi,	otgatni	koj. 
+	Nja-koj	se	obadi,	otgatni	koj.
 	indef-who	refl	called	guess:impv	who
 	‘Somebody has called, guess who.’
 
 irrealis non-specific (‘want’)
-	Kogato	edin	c;\D\fo1(ovek	iska	da	vârs;\D\fo1(i	ne-s;\D\fo1(to –	daj	mu	rabota. 
+	Kogato	edin	c;\D\fo1(ovek	iska	da	vârs;\D\fo1(i	ne-s;\D\fo1(to –	daj	mu	rabota.
 	when	one	person	wants	sbjv	he:do	indef-what	give:impv	him	work
-	‘When a person wants to do something – give him or her work.’ (D70: 445)
-
+	‘When a person wants to do something – give him or her work.’
+	donceva1970[445]
 question
 		Vidja	li	ne-s;\D\fo1(to	<*kakvo-to i da e>?
 		you:saw	q	indef-what	what-indef
 		‘Did you see anything (at all)?’
 
 conditional
-		Ako	vidis;\D\fo1(	ne-s;\D\fo1(to/	kakvo-to i da e,	kaz;\D\fo1(i	mi. 
+		Ako	vidis;\D\fo1(	ne-s;\D\fo1(to/	kakvo-to i da e,	kaz;\D\fo1(i	mi.
 		if	you:see	indef-what	what-indef	tell:impv	me
 		‘If you see anything/anything at all, tell me.’
 
 free choice
-	Moz;\D\fo1(es;\D\fo1(	da	vzemes;\D\fo1(	koj-to i da e	moliv. 
+	Moz;\D\fo1(es;\D\fo1(	da	vzemes;\D\fo1(	koj-to i da e	moliv.
 	you:can	sbjv	you:take	which-indef	pencil
 	‘You can take any pencil.’
 
 comparative
-	Na	mene	povec;\D\fo1(e,	otkolkoto	i	na	kogo-to i da bilo	drug	mi	e	c;\D\fo1(uz;\D\fo1(d	pokaznijat	patos. 
+	Na	mene	povec;\D\fo1(e,	otkolkoto	i	na	kogo-to i da bilo	drug	mi	e	c;\D\fo1(uz;\D\fo1(d	pokaznijat	patos.
 	to	me	more	than	even	to	whom-indef	other	me	is	alien	ostentatious	pathos
 	‘Ostentatious pathos is more alien to me than to anyone else.’
-	(D70: 449)	
+	donceva1970[449]
 
 indirect negation
-	Momc;\D\fo1(e-to	go	napravi	bez	kakva-to i da e/	ni-kakva		pomos;\D\fo1(t. 
+	Momc;\D\fo1(e-to	go	napravi	bez	kakva-to i da e/	ni-kakva		pomos;\D\fo1(t.
 	boy-the	it	did	without	which-indef	neg-which	help
 	‘The boy did it without any help.’
 
 direct negation
-	Ni-koj	ne	mi	kaza	ni-s;\D\fo1(to. 
+	Ni-koj	ne	mi	kaza	ni-s;\D\fo1(to.
 	neg-who	not	me	told	neg-what
 	‘Nobody told me anything.’
 
@@ -771,54 +848,56 @@ sout1528
 Serbian/Croatian
 
 specific
-			Mira	voli	ne-koga. 
+			Mira	voli	ne-koga.
 			Mira	loves	indef-whom
 		‘Mira loves someone.’
-		(P91: 569)
+		progovac1991[569]
 
-irrealis non-specific 
-		Daj	mi	ne-s;\D\fo1(to! 
+irrealis non-specific
+		Daj	mi	ne-s;\D\fo1(to!
 		give	me	indef-what
 		‘Give me something!’
 
 question
-			Da	li	je	i-ko/	bilo	ko	dos;\D\fo1(ao? 
+			Da	li	je	i-ko/	bilo	ko	dos;\D\fo1(ao?
 			q	q	aux	indef-who	indef	who	come
 			‘Did anyone come?’
-			(P90: 130-1)
+			progovac1990[130-131]
+
 
 conditional
-			Ako	je	i-ko/	bilo	ko	dos;\D\fo1(ao,	poc;\D\fo1(n-i-te! (P90: 130)
+			Ako	je	i-ko/	bilo	ko	dos;\D\fo1(ao,	poc;\D\fo1(n-i-te!
 			if	aux	indef-who	indef	who	come	start-impv-2pl
 			‘If anyone has come, start!’
+			progovac1990[130]
 
 question
-			Jesi	li	ne-koga	nas;\D\fo1(ao? 
+			Jesi	li	ne-koga	nas;\D\fo1(ao?
 			have.you	q	indef-whom	found
 			‘Did you find anyone?’
 
 indirect negation
-		Milan	ne	tvrdi	da	je	i-ko/		bilo	ko/	*ni-ko		dos;\D\fo1(ao. 
+		Milan	ne	tvrdi	da	je	i-ko/		bilo	ko/	*ni-ko		dos;\D\fo1(ao.
 		Milan	neg	claims	that	aux	indef-who	indef	who	indef-who	come
-		‘Milan does not claim that anyone has come.’ 
-		(P90:130-1)
+		‘Milan does not claim that anyone has come.’
+		progovac1990[130-131]
 
 comparative
-		Marija	je	pametnija	{nego	i-ko/	od	bilo	koga}	u	razredu. 
+		Marija	je	pametnija	{nego	i-ko/	od	bilo	koga}	u	razredu.
 		Marija	is	smarter	than	indef-who	from	indef	who:gen	in	class
 		‘Marija is smarter than anyone in her class.’
 
 free choice
-		Bilo	ko	moz;\D\fo1(e	istuc;\D\fo1(i	malo	dete. 
+		Bilo	ko	moz;\D\fo1(e	istuc;\D\fo1(i	malo	dete.
 		indef	who	can	beat	small	child
 		‘Anyone can beat a small child.’
-		(P90: 130)
+		progovac1990[130]
 
 direct negation
-		Milan	ne	voli	ni-koga	<*i-koga>. 
+		Milan	ne	voli	ni-koga	<*i-koga>.
 		Milan	neg	loves	indef-whom	indef-whom
 		‘Milan does not love anyone.’
-		(P91: 568)
+	progovac1991[568]
 
 
 poli1260
@@ -827,10 +906,10 @@ Polish
 specific known
 	Kto-s;\D\fo1(	do	ciebie	zadzwonil, [zgadnij	kto/	ale	nie	zrozumialam	nazwisko].
 	who-indef	to	you	called	guess	who	but	not	I:understood	name
-	‘Someone called you, [guess who/but I didn’t understand the name].’ 
+	‘Someone called you, [guess who/but I didn’t understand the name].’
 
 irrealis non-specific
-	Zawsze	moz5na	sie	czego-s;\D\fo1(	nauczyc;\D\fo1(. 
+	Zawsze	moz5na	sie	czego-s;\D\fo1(	nauczyc;\D\fo1(.
 	always	one.can	refl	what-indef	teach
 	‘One can always learn something.’
 
@@ -840,12 +919,12 @@ question
 		‘Can you see anybody?’
 
 conditional
-		Jezeli	co-s;\D\fo1(/	co-kolwiek	zobaczysz,	odrazu	mnie	obudz;\D\fo1(. 
+		Jezeli	co-s;\D\fo1(/	co-kolwiek	zobaczysz,	odrazu	mnie	obudz;\D\fo1(.
 		if	what-indef	what-indef	you:see	immediately	me	wake:impv
 		‘If you see anything, wake me up immediately.’
 
 indirect negation
-	Nie	sadze4,	ze	kto-s;\D\fo1(/	kto-kolwiek	przyszedl. 
+	Nie	sadze4,	ze	kto-s;\D\fo1(/	kto-kolwiek	przyszedl.
 	not	I:think	that	who-indef	who-indef	came
 	‘I don’t think that anybody came.’
 
@@ -855,7 +934,7 @@ free choice
 	‘You can visit me at any time.’
 
 comparative
-	Graz%yna	napisala	wie4cej	ksia4z%ek	niz%	jaki-kolwiek	inny	autor. 
+	Graz%yna	napisala	wie4cej	ksia4z%ek	niz%	jaki-kolwiek	inny	autor.
 	Graz%yna	wrote	more	books	than	which-indef	other	author
 	‘Grazyna has written more books than any other author.’
 
@@ -867,7 +946,7 @@ direct negation
 russ1263
 Russian
 
-specific unknown	
+specific unknown
 		Kto-to postuc;\D\fo1(al v dver’.
 		‘Somebody knocked at the door.’
 
@@ -886,7 +965,7 @@ question
 conditional
 			Esli c;\D\fo1(to-nibud’/c;\D\fo1(to-libo sluc;\D\fo1(itsja, ja skaz;\D\fo1(u mame.
 			‘If anything happens, I’ll tell mom.’
-	
+
 specific unknown
 		Ona xoc;\D\fo1(et vyjti zamuz;\D\fo1(za kogo-to iz Ameriki.
 			‘She wants to marry someone [specific] from America.’
@@ -895,7 +974,7 @@ irrealis non-specific
 			Ona xoc;\D\fo1(et vyjti zamuz;\D\fo1(za kogo-nibud’/kogo-to iz Ameriki.
 			‘She wants to marry someone [non-specific] from America.’
 
-comparative	
+comparative
 		Zdes’ prijatnee z;\D\fo1(it’ c;\D\fo1(em gde-libo/gde by to ni bylo v mire.
 		‘Here it is more pleasant to live than anywhere in the world.’
 
@@ -927,47 +1006,49 @@ specific known
 		Nam nado pogovorit’ s toboj koe o c;\D\fo1(em.
 		‘You and I have to talk about something.’
 
- 
+
 lith1251
 Lithuanian
 
 conditional
-	Jei	tu	ka	nors/	kaz;\D\fo1(-ka	matai,	pasaky-k	man. 
+	Jei	tu	ka	nors/	kaz;\D\fo1(-ka	matai,	pasaky-k	man.
 	if	you	what	indef	indef-what	see	tell-impv	to:me
 	‘If you see anything/something, tell me.’
 
 indirect negation
-	Ne-langva	rasti	ka4	nors	kas	pade%tu4	jums. 
+	Ne-langva	rasti	ka4	nors	kas	pade%tu4	jums.
 	neg-possible	find	whom	indef	who	help	you
 	‘It’s impossible to find anyone who would help you.’
 
 direct negation
-	Nie-kas	man	nie-ko	ne-saki. 
+	Nie-kas	man	nie-ko	ne-saki.
 	neg-who	to:me	neg-what	neg-told
 	‘Nobody told me anything.’
 
 free choice
-	Bet	kas	gali	paais;\D\fo1(kinti	s;\D\fo1(ia	problema. 
+	Bet	kas	gali	paais;\D\fo1(kinti	s;\D\fo1(ia	problema.
 	indef	who	can	solve	this	problem
 	‘Anybody can solve this problem.’
 
 comparative
-	As;\D\fo1(	esme	suprantu	geriau	negu	kas	nors/	bet	kas	kitas. 
+	As;\D\fo1(	esme	suprantu	geriau	negu	kas	nors/	bet	kas	kitas.
 	I	essence	understand	better	than	who	indef	indef	who	other
 	‘I understand the essence better than anyone else.’
-	(P84: 146)
+pilka1984[146]
 
 direct negation
-	Z;\S\up2(\D\fo1(irardo	ne-atskleidz;\D\fo1(ia	jokiu	nauju	savo	talento	pusiu. 
+	Z;\S\up2(\D\fo1(irardo	ne-atskleidz;\D\fo1(ia	jokiu	nauju	savo	talento	pusiu.
 	Girardeaux	neg-shows	any	new	her	talent’s	sides
 	‘Girardeaux does not show any new sides of her talent.’
-	(P84: 87)
+pilka1984[87]
+
 
 indirect negation
-	Dauguma	meteoru	pasirodo	nakti	be	jokiu/	kokiu	nors	desningumu. 
+	Dauguma	meteoru	pasirodo	nakti	be	jokiu/	kokiu	nors	desningumu.
 	majority	of:meteors	appear	at:night	without	any	which	indef		regularities
 	‘The majority of meteors appear at night without any regularities.’
-	(P84: 87)
+pilka1984[87]
+
 
 
 latv1249
@@ -1023,33 +1104,34 @@ direct negation
 	him	neg-what	neg-interests
 	‘Nothing interests him.’
 
- 
+
 iris1253
 Irish
 
 specific known
-		Tá	rud	agam	le	rá	leat. 
+		Tá	rud	agam	le	rá	leat.
 		is	thing	on:me	for	telling	to:you
 		‘I have something to tell you.’
 		(NT, Lk 7.40)
 
 specific unknown
-		Dúirt	duine	éigin	liom	é. 
+		Dúirt	duine	éigin	liom	é.
 		told	person	certain	to:me	he
 		‘Somebody told me.’
-		(B59: 683)
+	de_bhaldraithe1959[683]
+
 
 irrealis non-specific
-		Caithfear	teacht	ar	réiteach	éigin	eile. 
+		Caithfear	teacht	ar	réiteach	éigin	eile.
 		must:fut	coming	on	solution	certain	other
 		‘Some other solution will have to be found.’
-		(B59: 682)
+	de_bhaldraithe1959[682]
 
 irrealis non-specific
 		Abair	rud	éigin.
 		say:impv	thing	certain
 		‘Say something.’
-		(B59: 683)
+	de_bhaldraithe1959[683]
 
 question
 		An	bhfuil	aon	airgead/	airgead	ar bith		agat?
@@ -1057,10 +1139,10 @@ question
 		‘Do you have any money?’
 
 question
-		An	bhfuil	dada	le	rá	agat? 
+		An	bhfuil	dada	le	rá	agat?
 		q	is	anything	for	telling	at:you
-		‘Do you have anything to say?’	
-		(D77: 361)
+		‘Do you have anything to say?’
+		o_donaill1977[361]
 
 question
 		An	bhfeiceann	tú	duine	ar	bith	ansin	thall?
@@ -1068,63 +1150,67 @@ question
 		‘Do you see anyone over there?’
 
 conditional
-		Má	thagann	aon	duine	acu ... 
+		Má	thagann	aon	duine	acu ...
 		if	comes	any	person	at:them
 		‘If any of them should come ...’
-		(B59: 28)
+	de_bhaldraithe1959[28]
+
 
 conditional
-		Má	thagann	sé	go	deo/	choíche ... 
+		Má	thagann	sé	go	deo/	choíche ...
 		if	comes	he	ever
 		‘If he ever comes ...’
-		(B59: 229)
+	de_bhaldraithe1959[229]
+
 
 conditional
-		Má	chuir	sé	fearg	ort	ar	dhóigh	ar	bith ... 
+		Má	chuir	sé	fearg	ort	ar	dhóigh	ar	bith ...
 		if	puts	he	anger	on:you	on	manner	on	world
 		‘If he has in any way offended you ...’
-		(B59: 28)
+	de_bhaldraithe1959[28]
+
 
 indirect negation
-		Ní	mheasaim	gur	tháinig	aon	duine/	duine	ar bith	acu. 
+		Ní	mheasaim	gur	tháinig	aon	duine/	duine	ar bith	acu.
 		neg	I:think	that	arrived	any	person	man	on world	at:them
 		‘I don’t think any of them has arrived.’
-		(B59: 28)
+	de_bhaldraithe1959[28]
+
 
 indirect negation
-		Níorbh	áil	leis	go	mbeadh	fios	ag	aon	duine. 
+		Níorbh	áil	leis	go	mbeadh	fios	ag	aon	duine.
 		neg:was	desire	with:him	that	be	knowledge	at	any	person
-		‘He didn’t want anyone to know it.’ 
+		‘He didn’t want anyone to know it.’
 		(NT, Mk 9.30)
 
 comparative
-		Tháinig	an	bháisteach	níos	tréine	ná	riamh. 
+		Tháinig	an	bháisteach	níos	tréine	ná	riamh.
 		arrived	the	rain	more	power	than	ever
 		‘It started to rain, faster than ever.’
-		(B59: 229)
+	de_bhaldraithe1959[229]
 
 comparative
-		chomh	maith	le	aon	duine	beo 
+		chomh	maith	le	aon	duine	beo
 		as		good	with	any	man	living
 		‘as good as any man’
-		(B59: 28)
+	de_bhaldraithe1959[28]
 
 direct negation
-		Níor	labhair	aon	duine/	duine	ar bith		liom. 
+		Níor	labhair	aon	duine/	duine	ar bith		liom.
 		neg	spoke	any	person	person	on world	with:me
 		‘Nobody spoke to me.’
-		(B59: 477)
+	de_bhaldraithe1959[477]
 
 direct negation
-		Ní	dúirt	siad	aon	ní/	dada/	rud	ar bith	le	haon	duine. 
+		Ní	dúirt	siad	aon	ní/	dada/	rud	ar bith	le	haon	duine.
 		neg	said	they	any	thing	anything	thing	on world	to	any	person
 		‘They didn’t say anything to anybody.’
 
 direct negation
-		Ní	labhair	sé	riamh	air. 
+		Ní	labhair	sé	riamh	air.
 		neg	spoke	he	ever	on:it
 		‘He never spoke of it.’
-		(D77: 997)
+			o_donaill1977[997]
 
 free-choice
 		Tar	lá	ar bith/	aon	lá	(a	thogrós	tú). (B59: 28)
@@ -1132,10 +1218,10 @@ free-choice
 		‘Come any day (you like).’
 
 free-choice
-		Íosfaidh	sé	rud	ar bith/	aon	rud/	*dada. 
+		Íosfaidh	sé	rud	ar bith/	aon	rud/	*dada.
 		eats:hab	he	thing	on world	any	thing	anything
 		‘He eats anything.’
-		(B59: 28)
+	de_bhaldraithe1959[28]
 
 
 osse1243
@@ -1145,30 +1231,30 @@ specific
 	Cy-dær	mæ	qygdær-y.
 	what-indef	me	bother-pres.3sg
 	‘Something bothers me.’
-	(K58: 52)
+	kulaev1958[52]
 
 irrealis non-specific
-		Mænæm	dær	ma	is-ty	ratt. 
+		Mænæm	dær	ma	is-ty	ratt.
 		I:dat	also	pt	indef-what	give(impv)
 		‘Give me something, too.’
 
 question
-		Dy	is-kæj	uyn-ys? 
+		Dy	is-kæj	uyn-ys?
 		you	indef-who	see-pres.2sg
 		‘Do you see anybody?’
 
 conditional
-		Dy	is-ty	kuy	ssar-i-s,	uæd	mænæm	dær	æxsyzgon	uaid. 
+		Dy	is-ty	kuy	ssar-i-s,	uæd	mænæm	dær	æxsyzgon	uaid.
 		you	indef-what	if	find-sbjv-2sg	then	I:dat	also	glad	will:be
 		‘If you find anything, I’ll be glad.’
 
-indirect negation	
-	Æz	dyzærdyg	kæn-yn,	is-c;\D\fo1(i	ærbacæu-dzæn	ævi	næ. 
+indirect negation
+	Æz	dyzærdyg	kæn-yn,	is-c;\D\fo1(i	ærbacæu-dzæn	ævi	næ.
 	I	doubt	do-pres.1sg	indef-who	come-fut(3sg)	or	not
 	‘I doubt that anyone will come.’
 
 free choice
-	Aj	xuymætæg	xyncinag	u,	c;\D\fo1(i-dæriddær	dær	æj	baxync-dzæn. 
+	Aj	xuymætæg	xyncinag	u,	c;\D\fo1(i-dæriddær	dær	æj	baxync-dzæn.
 	this	simple	problem	is	who-indef	also	it	solve-fut(3sg)
 	‘This is a simple problem, anyone will solve it.’
 
@@ -1183,7 +1269,7 @@ direct negation
 		‘I didn’t see anyone there.’
 
 direct negation
-		Ma-kædæm	acu. 
+		Ma-kædæm	acu.
 		neg-where	go(impv)
 		‘Don’t go anywhere.’
 
@@ -1192,42 +1278,42 @@ west2369
 Persian
 
 specific known
-	Diruz	kas-i-râ	dar	otobus	did-am. 
+	Diruz	kas-i-râ	dar	otobus	did-am.
 	yesterday	person-indef-acc	on	bus	see:pst-1sg
 	‘Yesterday I saw someone [known/unknown] on the bus.’
 
 irrealis non-specific
-	Yek	vaqt-i	be	xâne-ye	mâ	bey-âyid. 
+	Yek	vaqt-i	be	xâne-ye	mâ	bey-âyid.
 	one	time-indef	to	house-lk	we	sbjv-come:impv
 	‘Come to our house sometime.’
 
 question
-		Âyâ	(hic;\D\fo1()	c;\D\fo1(iz-i	mi-s;\D\fo1(anav-i? 
+		Âyâ	(hic;\D\fo1()	c;\D\fo1(iz-i	mi-s;\D\fo1(anav-i?
 		q	indef	thing-indef	impf-hear-2sg
 		‘Can you hear anything?’
 
 conditional
-		Agar	(*hic;\D\fo1()	c;\D\fo1(iz-i	s;\D\fo1(anid-i,	be	man	be-gu. 
+		Agar	(*hic;\D\fo1()	c;\D\fo1(iz-i	s;\D\fo1(anid-i,	be	man	be-gu.
 		if	indef	thing-indef	hear-2sg	to	me	sbjv-say
 		‘If you hear anything, tell me.’
 
 indirect negation
-	Fekr	na-mi-kon-am	(ke)	Sorâyâ	(hic;\D\fo1()	c;\D\fo1(iz-i	s;\D\fo1(anide	bâs;\D\fo1(ad. 
+	Fekr	na-mi-kon-am	(ke)	Sorâyâ	(hic;\D\fo1()	c;\D\fo1(iz-i	s;\D\fo1(anide	bâs;\D\fo1(ad.
 	thinking	neg-impf-do-1sg	that	Soraya	indef	thing-indef	heard	has
-	‘I don’t think that Soraya heard anything.’ 
+	‘I don’t think that Soraya heard anything.’
 
 direct negation
-	Hic;\D\fo1(	kas(-i)/	kas-i	zang	na-zad. 
+	Hic;\D\fo1(	kas(-i)/	kas-i	zang	na-zad.
 	indef	person-indef	person-indef	ring	neg-hit
 	‘Nobody called.’
 
 free choice
-	Har	kas(-i)	mi-tavânad	in	mas?ale-râ	hall	konad. 
+	Har	kas(-i)	mi-tavânad	in	mas?ale-râ	hall	konad.
 	every	person-indef	impf-can	this	problem-acc	solving	do
 	‘Anyone can solve this problem.’
 
 free choice
-	Pesar	az	har	kas-i	tondtar	mi-davad. 
+	Pesar	az	har	kas-i	tondtar	mi-davad.
 	boy	than	every	person-indef	faster	impf-runs
 	‘The boy runs faster than anyone.’
 
@@ -1237,70 +1323,70 @@ Hindi-Urdu
 
 specific known
 	Kisii-ne	<*bhii>	fon	kiy-aa	thaa,		par	mãi;\D\fo1(	tumhe;\D\fo1(	nahi;\D\fo1(	bataau;\D\fo1(gii,	kis-ne.
-	someone-erg	indef	phone	do-pfv	was	but	I	you	neg	I:will:tell	who-erg	
+	someone-erg	indef	phone	do-pfv	was	but	I	you	neg	I:will:tell	who-erg
 	‘Someone has phoned, but I won’t tell you who.’
- 			
+
 specific unknown
-	Kisii-ne	<*bhii>	fon	kiy-aa	thaa,	par	mujhe	nahi;\D\fo1(	maaluum,	kis-ne.	
-	someone-erg	indef	phone	do-pfv	was	but	I:dat	neg	known	who-erg	
+	Kisii-ne	<*bhii>	fon	kiy-aa	thaa,	par	mujhe	nahi;\D\fo1(	maaluum,	kis-ne.
+	someone-erg	indef	phone	do-pfv	was	but	I:dat	neg	known	who-erg
 	‘Someone has phoned, but I don't know who.’
 
 indirect negation
-	Mujhe	nahi;\D\fo1(	lag-taa	hai	ki	kal	koii	(bhii)	aaege. 
+	Mujhe	nahi;\D\fo1(	lag-taa	hai	ki	kal	koii	(bhii)	aaege.
 	I:dat	neg	seem-impf	is	that	tomorrow	someone	indef	he:will:come
 	‘It doesn’t seem to me that anyone will come tomorrow.’
-	(D78: 37)
+	davison1978a[37]
 
 direct negation
-		Ghar	me;\D\fo1(	koii	(bhii)	nahi;\D\fo1(	hai. 
+		Ghar	me;\D\fo1(	koii	(bhii)	nahi;\D\fo1(	hai.
 		house	in	someone	indef	neg	is
 		‘No one (at all) is at home.’
-		(B78: 69)
+		bhatia1978[69]
 
 direct negation
-	Kisii-ne	kuch	nahi;\D\fo1(	dekh-aa. 
+	Kisii-ne	kuch	nahi;\D\fo1(	dekh-aa.
 		someone-erg	something	neg	see-pfv
 		‘Nobody saw anything.’ (Or: ‘Someone saw nothing.’)
-		(D78: 29)
+		davison1978a[29]
 
 irrealis non-specific
-	Wah	kisii-ko/		kisii-ko	bhii	fon	kar-naa	caah-tii	hai. 
+	Wah	kisii-ko/		kisii-ko	bhii	fon	kar-naa	caah-tii	hai.
 		she	someone-dat	someone-dat	indef	phone	do-inf	want-impf	is
 		‘She wants to phone someone (specific/non-specific).’
 
 irrealis non-specific
-	Kisii-ko	(bhii)	fon	kar-o! 
+	Kisii-ko	(bhii)	fon	kar-o!
 		someone-dat	indef	phone	do-impv
 		‘Phone someone!’
 
 question
-		Kyaa	aap-ne	kisii-ko/	kisii-ko	bhii	dekh-aa? 
+		Kyaa	aap-ne	kisii-ko/	kisii-ko	bhii	dekh-aa?
 		q	you-erg	someone-dat	someone	indef	see-pfv
 		‘Did you see somebody/anybody?’
-		(D78: 27-8)
+	davison1978a[27-28]
 
 conditional
-		Agar	koii	(bhii)	fon	kare,	mujhe	bataanaa. 
+		Agar	koii	(bhii)	fon	kare,	mujhe	bataanaa.
 		if	someone	indef	phone	calls	I:dat	tell
 		‘If anybody (at all) calls, tell me.’
 
 comparative
-	Yeh	larkaa	apne	vidyaalay	ke	kisii	bhii	larke	se	zyaada	tez	daur-taa	hai.	
+	Yeh	larkaa	apne	vidyaalay	ke	kisii	bhii	larke	se	zyaada	tez	daur-taa	hai.
 	this	boy	his	class	of	someone	indef	boy	from	more	fast	run-impf	is
 	‘This boy runs faster than anyone in his class.’
 
 free choice
-	Ghar	me;\D\fo1(	koii	bhii	aa	sak-taa	hai. 
+	Ghar	me;\D\fo1(	koii	bhii	aa	sak-taa	hai.
 	house	in	someone	indef	come	can-impf	is
 	‘Anyone can come into the house.’
-	(B78:70)
+	bhatia1978[70]
 
 
 nucl1301
 Turkish
 
 specific known
-	San-a	biri(si)	telefon	et-ti.	Bil,	bakalım,	kim. 
+	San-a	biri(si)	telefon	et-ti.	Bil,	bakalım,	kim.
 	you-dat	one		phone	do-pst	know	we’ll.see	who
 	‘Someone phoned you. Guess who.’
 
@@ -1326,7 +1412,7 @@ conditional
 
 indirect negation
 	Kimse-nin/	herhangi	biri-nin/	hiç	kimse-nin	gel-me-si	gerekli	deg;\D\fo1(il.
-	anyone-gen	any	one-gen	indef	anyone-gen	come-masd-3sg	necessary	neg.is	
+	anyone-gen	any	one-gen	indef	anyone-gen	come-masd-3sg	necessary	neg.is
 	‘It is not necessary for anyone to come.’
 
 direct negation
@@ -1340,7 +1426,7 @@ free choice
 	‘Anyone can solve this problem.’
 
 comparative
-	Murat	sınıf-ın-da-ki	herhangi	birin-den	daha	hızlı	kos3-ar.	
+	Murat	sınıf-ın-da-ki	herhangi	birin-den	daha	hızlı	kos3-ar.
 	Murat	class-3sg-loc-attr	any	one-abl	more	fast	run-aor
 	‘Murat runs faster than anyone in his class.’
 
@@ -1349,16 +1435,16 @@ kaza1248
 Kazakh
 
 specific
-	Älde-qajdan	mas;\D\fo1(ina-nyN	gudag-y	estil-di. 
+	Älde-qajdan	mas;\D\fo1(ina-nyN	gudag-y	estil-di.
 		indef-where	car-gen	honk-3sg	sound-pst
 		‘Somewhere the honk of a car sounded.’
-		(S54: 151)
+		sauranbaev1954[151]
 
 specific
-		Ol	älde-qandaj	dälel-der	keltir-di. 
+		Ol	älde-qandaj	dälel-der	keltir-di.
 		he	indef-which	argument-pl	adduce-pst(3sg)
 		‘He adduced some arguments or other.’
-		(S54:319)
+		sauranbaev1954[319]
 
 specific known
 	Birew	telefon	soq-ty		kim	ekenin	taps;\D\fo1(y.
@@ -1366,144 +1452,144 @@ specific known
 	‘Someone called	—	guess who.’
 
 specific unknown
-	Birew	telefon	soq-ty		byraq	kim	ekenin	bil-me-j-min. 
+	Birew	telefon	soq-ty		byraq	kim	ekenin	bil-me-j-min.
 	someone	phone	hit-pst		but	who	[?]		know-neg-pres-1sg
 	‘Someone called, but I don’t know who.’
-					
+
 irrealis non-specific
-	Bir	z;\D\fo1(er-de	kezde-ser-miz. 
+	Bir	z;\D\fo1(er-de	kezde-ser-miz.
 	one	place-iness	meet-fut-1pl
 	‘Let’s meet somewhere.’
 
 question
-		Birew	<*älde-kim>	kel-di	me? 
+		Birew	<*älde-kim>	kel-di	me?
 		someone	indef-who		come-pst(3sg)	q
 		‘Did anyone come?’
 
 conditional
-		Birew	<*älde-kim>	kel-se,	ma-Van	ajt. 
+		Birew	<*älde-kim>	kel-se,	ma-Van	ajt.
 		someone	indef-who	come-cond(3sg)	I-dat	tell(impv)
 		‘If anyone comes, tell me.’
 
 indirect negation
-	Birew	kel-di	dep	sen-be-j-min. 
+	Birew	kel-di	dep	sen-be-j-min.
 	someone	come-pst(3sg)	that	think-neg-pres-1sg
 	‘I don’t think that anyone came.’
 
 direct negation
-		Es;\D\fo1(-kim	es;\D\fo1(-närse	de-me-di. 
+		Es;\D\fo1(-kim	es;\D\fo1(-närse	de-me-di.
 		neg-who	neg-anything	say-neg-pst(3sg)
 		‘Nobody said anything.’
 
 free choice
-	SeniN	kim-di	bolsa da	s;\D\fo1(aqyru-Na	bolady. 
+	SeniN	kim-di	bolsa da	s;\D\fo1(aqyru-Na	bolady.
 	you	who-acc	indef	invite-masd	may
 	‘You may invite anyone.’
 
 free choice
-	Bir	waqyt-ta/	qas;\D\fo1(an	bolsa da	seniN	Moskva-da	bol-g;\D\fo1(a-nyN	bar	ma? 
+	Bir	waqyt-ta/	qas;\D\fo1(an	bolsa da	seniN	Moskva-da	bol-g;\D\fo1(a-nyN	bar	ma?
 	one	time-iness	when	indef	you	Moscow-iness	be-pst-2sg	is	q
-	‘Have you ever been to Moscow?’ 
+	‘Have you ever been to Moscow?’
 
 
 yaku1245
 Yakut
 
 specific
-	Kim	ere	eji-exe	kiir-e	syld’y-byt-a. 
+	Kim	ere	eji-exe	kiir-e	syld’y-byt-a.
 	who	indef	you-dat	enter-conv	go-perf-3sg
 	‘Someone has come to you.’
-	(AX68: 250)
+	afanasev1968[250]
 
 irrealis non-specific
-	Xojut	kim-inen	eme	tug-u	eme	yyt-ya-m. 
+	Xojut	kim-inen	eme	tug-u	eme	yyt-ya-m.
 	afterwards	who-instr	indef	what-acc	indef	send-fut-1sg
 	‘Afterwards I’ll send something with someone.’
-	(U82: 200)
+	ubrjatova1982[200]
 
 question
-		En	xahan	eme	Moskva-Va	syld’y-byt-yN	duo? 
+		En	xahan	eme	Moskva-Va	syld’y-byt-yN	duo?
 		you	when	indef	Moscow-dat	go-perf-2sg	q
 		‘Have you ever been to Moscow?’
-		(AX68: 229)
+	afanasev1968[229]
 
 conditional
-		Kim	eme	kel-leVine,	mii-gin	üle-t-iger	bar-byt-a	die. 
+		Kim	eme	kel-leVine,	mii-gin	üle-t-iger	bar-byt-a	die.
 		who	indef	come-cond	I-acc	work-3sg-dat	go-perf-3sg	say(impv)
-		‘If anyone comes, say that I went to work.’ 
-		(AX68: 250)
+		‘If anyone comes, say that I went to work.’
+	afanasev1968[250]
 
 direct negation
-	Kini-ni	tuox	da	interiehirge-ppet. 
+	Kini-ni	tuox	da	interiehirge-ppet.
 	he-acc	what	indef	interest-neg.3sg
 	‘Nothing interests him.’
-	(AX68: 336)
+	afanasev1968[336]
 
 comparative
-	AjylVa	kiergel-in	kim-ten	da	syanalyy-r. 
+	AjylVa	kiergel-in	kim-ten	da	syanalyy-r.
 	nature	beauty-3sg:acc	who-abl	indef	appreciate-3sg
 	‘He appreciates nature’s beauty more than anyone.’
-	(U82: 209)
+	ubrjatova1982[209]
 
 free choice
-	Kini-tten	tug-u	baVarar	küüt-üö-xxe	söp. 
+	Kini-tten	tug-u	baVarar	küüt-üö-xxe	söp.
 	he-abl	what-acc	indef	expect-masd-dat	possible
 	‘One can expect anything from him.’
-	(U82: 207)
+	ubrjatova1982[207]
 
 
 hung1274
 Hungarian
 
 specific unknown
-	Vala-hol	már		tolál-koz-t-unk. 
+	Vala-hol	már		tolál-koz-t-unk.
 	indef-where	already	meet-refl-pst-1pl
 	‘We have met somewhere before.’
 
 specific known
-	Mester,	lát-ánk	vala-ki-t,		a_ki	a	te	nev-ed-del	ördög-ök-et	üz. 
+	Mester,	lát-ánk	vala-ki-t,		a_ki	a	te	nev-ed-del	ördög-ök-et	üz.
 	master	see-1pl	indef-who-acc	who	art	you	name-2sg-instr	devil-pl-acc	drive
 	‘Master, we saw one casting out devils in thy name.’
 	(NT, Mk 9.38)
 
 irrealis non-specific
-	Majd	csak	meglesz-ünk	vala-hogy. 
+	Majd	csak	meglesz-ünk	vala-hogy.
 	later	only	manage-1pl	indef-how
 	‘We’ll manage somehow.’
 
 direct negation
-	Nem	lát-t-am	sem-mi-t	<*akár-mi-t, *bár-mi-t>. 
-	neg	see-pst-1sg	indef-what-acc	
+	Nem	lát-t-am	sem-mi-t	<*akár-mi-t, *bár-mi-t>.
+	neg	see-pst-1sg	indef-what-acc
 	‘I did not see anything.’
 
 direct negation
-		Sen-ki-nek		sem-mi-t	sem	szólának. 
+		Sen-ki-nek		sem-mi-t	sem	szólának.
 		indef-who-dat	indef-what-acc	neg	say:3pl
 		‘Neither said they any thing to any man.’
 		(NT, Mk 16.8)
 
 free choice
-	Akár-ki	tanul-hat-ott. 
+	Akár-ki	tanul-hat-ott.
 	indef-who	learn-pot-pst(3sg)
 	‘Anybody could learn.’
 
 comparative
-	Itt	jobb	a	klíma,	mint	akár-hol/bár-hol	Európá-ban. 
+	Itt	jobb	a	klíma,	mint	akár-hol/bár-hol	Európá-ban.
 	here	better	art	climate	than	indef-where	Europe-iness
-	‘Here the climate is better than anywhere in Europe.’ 
+	‘Here the climate is better than anywhere in Europe.’
 
 indirect negation
-	Nem	hisz-em,	hogy	vala-ki/	bár-ki/akár-ki	lát-t-a	volna. 
+	Nem	hisz-em,	hogy	vala-ki/	bár-ki/akár-ki	lát-t-a	volna.
 	neg	think-1sg	that	indef-who	indef-who		see-pst-3sg	sbjv
 	‘I don’t think that anybody has seen it.’
 
 conditional
-	Ha	bár-mi-t/akár-mi-t/vala-mi-t	hal-asz,	ébressz	fel. 
+	Ha	bár-mi-t/akár-mi-t/vala-mi-t	hal-asz,	ébressz	fel.
 	if	indef-what-acc			hear-2sg	wake	up
 	‘If you hear anything (at all), wake me up.’
 
 question
-	Hall-ott-ál		vala-mi-t		<*akár-mi-t,		*bár-mi-t>? 
+	Hall-ott-ál		vala-mi-t		<*akár-mi-t,		*bár-mi-t>?
 	hear-pst-2sg	indef-what-acc	indef-what-acc	indef-what-acc
 	‘Did you hear anything?’
 
@@ -1512,7 +1598,7 @@ finn1318
 Finnish
 
 specific known
-		*Joku	soitt-i.	Arvaa	kuka	(se	oli)? 
+		*Joku	soitt-i.	Arvaa	kuka	(se	oli)?
 		someone	call-pst(3sg)	guess:impv	who	it	was
 		‘Someone called. Guess who (it was).’
 
@@ -1523,46 +1609,46 @@ specific known
 
 specific unknown
 	Joku	soitt-i,	mutta	en	saa-nut		nime-stä	selvää.
-	someone	call-pst(3sg)	but	neg:1sg	get-pst.ptcp	name-elat	clear:prtv		
+	someone	call-pst(3sg)	but	neg:1sg	get-pst.ptcp	name-elat	clear:prtv
 	‘Someone called, but I didn’t understand the name.’
 
 irrealis non-specific (‘want’)
-	Hän	haluaa	mennä	naimisiin	jonkun	kanssa,	jolla	on	tumma	tukka. 
+	Hän	haluaa	mennä	naimisiin	jonkun	kanssa,	jolla	on	tumma	tukka.
 	she	wants	go	marriage	someone	with	who-on	is	dark	hair
 	‘She wants to marry someone [non-specific] with black hair.’
 
 question
-	Soitt-i-ko	joku/	kuka-an/	*kuka	hyvänsä? 
+	Soitt-i-ko	joku/	kuka-an/	*kuka	hyvänsä?
 	call-pst(3sg)-q	someone	who-indef	who	indef
 	‘Did someone/anyone call?’
 
 conditional
-	Jos	joku/	kuka	hyvänsä/	*kuka-an	soittaa,	sano	minulle. 
+	Jos	joku/	kuka	hyvänsä/	*kuka-an	soittaa,	sano	minulle.
 	if	someone	who	indef	who-indef	calls	tell(impv)	I:on
 	‘If someone/anyone at all calls, tell me.’
 
 direct negation
-	Kuka-an	ei	kerto-nut	minulle	mitä-än. 
+	Kuka-an	ei	kerto-nut	minulle	mitä-än.
 	who-indef	neg:3sg	tell-pst.ptcp	I:on	when-indef
 	‘Nobody told me anything.’
 
 indirect negation
-	Epäilen	että	poika	varast-i	mitä-än. 
+	Epäilen	että	poika	varast-i	mitä-än.
 	I:doubt	that	boy	steal-pst(3sg)	what-indef
 	‘I doubt that the boy stole anything.’
 
 comparative
-	Ilmasto	on	täällä	mielyttävä-mpi	kuin	missä-än	muualla	Euroopa-ssa. 
+	Ilmasto	on	täällä	mielyttävä-mpi	kuin	missä-än	muualla	Euroopa-ssa.
 	climate	is	here	pleasant-compr	than	where-indef	else	Europe-iness
 	‘Here the climate is more pleasant than anywhere in Europe.’
 
 free choice
-	Kuka	tahansa	osaa	natkaista	tämän	ongelman. 	
+	Kuka	tahansa	osaa	natkaista	tämän	ongelman.
 	who	indef	can	solve	this	problem
 	‘Anyone can solve this problem.’
 
 comparative
-	Täällä	on	yhtä	mukavaa	kuin	missä	tahansa	muualla. 
+	Täällä	on	yhtä	mukavaa	kuin	missä	tahansa	muualla.
 	here	is	as	pleasant	as	where	indef	else
 	‘It is as pleasant here as anywhere else.’
 
@@ -1570,53 +1656,60 @@ comparative
 nana1257
 Nanay
 
-direct negation 
+direct negation
 		Tuj	manga	puksin-du	xamaaa-daa	aliasi-ni	goani.
 		thus	strong	storm-dat	who-indef	bear-3sg	pt
 		‘Of course, nobody can bear such a strong storm.’
+	onenko1980[441-449]
 
-indirect negation 
+indirect negation
 		Duente	doowani	xaj-daa	xaon	anaa	pulsiu-mi	aaasi.
 		taiga	inside	who-indef	weapon	without	walk-conv	suit:neg
 		‘One should not walk in the taiga without any weapon.’
+	onenko1980[441-449]
 
 comparative
-		Naj	xaj-doj-daa	murumku,	masi,	imdar.	
+		Naj	xaj-doj-daa	murumku,	masi,	imdar.
 		human	who-than-indef	smart	strong	skillful
 		‘A human being is smarter, stronger, and more skillful than anyone.’
+	onenko1980[441-449]
 
-conditional 
+conditional
 		Xajdu-daa	maNga-wa,	kamaa-wa	baa-xan	osini,	mimbi-we	doolaa	xeersigu-xeeri.
 		where-indef	difficulty-acc	problem-acc	find-pst	if	I-acc	quietly	call-impv
 		‘If you meet with difficulties anywhere, call me quietly.’
+	onenko1980[441-449]
 
-irrealis non-specific 
+irrealis non-specific
 			Xaj-daa	osii-daa	osi-ara.
 			what-indef	[?]		happen-fut.3sg
 			‘Something may happen.’
+	onenko1980[441-449]
 
-irrealis non-specific 
+
+irrealis non-specific
 			Sajna,	xaj-daa	aka	o-i-ni	biere.
 			probably	what-indef	thing	happen-pst-3sg	apparently
 			‘Probably something has happened.’
+	onenko1980[441-449]
 
-free choice 
+free choice
 		Xaami-daa_xem_aja,	ii-xeri.
 		when-indef		come-impv
 		‘Come at any time.’
-		(Onenko 1986: 116)
+	onenko1986[116]
 
 specific unknown
-		Uj-nuu	ook-i	laN	i-i-ni. 
+		Uj-nuu	ook-i	laN	i-i-ni.
 			who-indef	house-dir	near	go-pst-3sg
 			‘Someone went up to the house.’
-			(Onenko 1986: 98)
+	onenko1986[98]
 
 specific known
-			Ñoambani	xajla-nuu	bajtalto-j-i. 
+			Ñoambani	xajla-nuu	bajtalto-j-i.
 			they	what-indef	accuse-pres-3pl
 			‘They are accusing him of something.’
-			(Onenko 1980: 443)
+	onenko1980[443]
 
 
 lezg1247
@@ -1628,95 +1721,109 @@ specific known
 		‘I’ll tell you something.’
 
 specific unknown
-	Gila	c;\D\fo1(ar-ar	wuc;\D\fo1(iz	jat’ani	xükwe-zma-c;\D\fo1(. 
+	Gila	c;\D\fo1(ar-ar	wuc;\D\fo1(iz	jat’ani	xükwe-zma-c;\D\fo1(.
 		now	letter-pl	why	indef	come-cont.impf-neg
 		‘Now the letters don’t come anymore for some reason.’
+	haspelmath1993[143]
 
 irrealis non-specific
-		Sa	ni-z	jat’ani	ewer	ce! 
+		Sa	ni-z	jat’ani	ewer	ce!
 		one	who-dat	indef	call	give:impv
 		‘Call someone!’
+	haspelmath1993[195]
 
 conditional
-		Wa-z	sa	wuc;\D\fo1(	jat’ani	aku-r-t’a,	za-z	lah! 
+		Wa-z	sa	wuc;\D\fo1(	jat’ani	aku-r-t’a,	za-z	lah!
 				you-dat	one	what:abs	indef	see-aor.ptcp-cond	I-dat	say:impv
 				‘If you see anything, tell me.’
+		haspelmath1993[195]
 
 question
-		Sa	wuz;\D\fo1(	jat’ani	ata-nwa-ni? 
+		Sa	wuz;\D\fo1(	jat’ani	ata-nwa-ni?
 				one	who:abs	indef	come-perf-q
 				‘Has anyone come?’
+			haspelmath1993[195]
 
 free choice
 		Ada-qh	galaz	kwe-kaj	x;\D\fo1(ajit’ani	sühbet	iji-z	z;\D\fo1(e-da.
 		she-postess	with	what-subel	indef	talk	do-inf	can-fut
-		‘With her one can talk about anything.’ 
+		‘With her one can talk about anything.’
+		haspelmath1993[196]
 
 comparative
-		Jusuf.a	ne-laj	x;\D\fo1(ajit’ani	qhsan-diz	mani-jar	luhu-zwa. 
+		Jusuf.a	ne-laj	x;\D\fo1(ajit’ani	qhsan-diz	mani-jar	luhu-zwa.
 		Jusuf(erg)	who-suprel	indef	good-adv	song-pl	say-impf
 		‘Jusuf sings better than anyone.’
+		haspelmath1993[196]
 
 direct negation
 		Däwe	mad	sadra-ni	sa	kasdi-z-ni	q’ismet	ta-x;\D\fo1(u-raj.
 		war	again	once-even	one	person-dat-even	destiny	neg-be-opt
 		‘May war never again be anyone’s destiny.’
+		haspelmath1993[196]
 
 indirect negation
 		C;\S\up2(\D\fo2(a-z	sada-z-ni	hic;\D\fo1(	sa	c;\D\fo1(’aw.u-z-ni	däwe	x;\D\fo1(a-na	k’an-da-c;\D\fo1(.
 		we-dat	one-dat-even	ever	one	time-dat-even	war	be-aor.conv		want-fut-neg
 		‘None of us wants there ever to be war.’
+		haspelmath1993[198]
 
 
 malt1254
 Maltese
 
-
 specific
 	Xi	Ìadd	qed	jaÌdem	fil-g;\S\up4(\D\fo2(nien.
 	indef	anyone	prog	he:work:impf	in:the-garden
 	‘Somebody is working in the garden.’
+	haspelmath1996[216]
 
 irrealis non-specific
 	Xi	darba	is-sena	d-dieÌla	mmur	l-Afrika.
 	indef	time	the-year	the-entering	I:go:impf	the-Africa
 	‘I’ll go to Africa sometime next year.’
+	haspelmath1996[216]
 
 conditional
 	Jekk	tara	xi	Ìag;\S\up4(\D\fo2(a	<*xejn>,	gÌidli.
 		if	you:see:impf	indef	thing	anything	tell:me:impv
 		‘If you see anything, tell me.’
+	haspelmath1996[217]
 
 question
 	Rajt	xi	Ìag;\S\up4(\D\fo2(a	<*xejn>?
 		you:see:perf	indef	thing	anything
 		‘Did you see anything?’
+	haspelmath1996[217]
 
-comparative	
+comparative
 		Dan	huwa	l-isbaÌ	inkwatru	li	Ìadd	qatt	ping;\S\up4(\D\fo2(a.
 		this	it	the-beautiful:comp	picture	that	anyone	ever	he:paint:perf
 		‘This is the most beautiful painting that anyone has ever painted.’
+	haspelmath1996[219]
 
 indirect negation
 		It-tifla	gÌamlitha	mingÌajr	ebda	gÌajnuna.
 		the-girl	she:do:it:perf	without	any	help
 		‘The girl did it without any help.’
+	haspelmath1996[219]
 
 direct negation
 	It-tifla	ma	rat	xejn.
 	the-girl	neg	she:see:perf	anything
-	‘The girl didn’t see anything.’ 
+	‘The girl didn’t see anything.’
+	haspelmath1996[217]
 
 hebr1245
 Hebrew
 
 specific
-	Ra?i-ti	mi-s;\D\fo1(ehu	<*is;\D\fo1(>. 
+	Ra?i-ti	mi-s;\D\fo1(ehu	<*is;\D\fo1(>.
 	saw-1sg	who-indef	person
 	‘I saw somebody.’
 
 irrealis non-specific
-	Ti-r?e	ma-s;\D\fo1(ehu	<*davar>. 
+	Ti-r?e	ma-s;\D\fo1(ehu	<*davar>.
 	2sg-will:see	what-indef	thing
 	‘You will see something.’
 
@@ -1730,172 +1837,174 @@ conditional
 		‘If you see anything, tell me.’
 
 question
-	Ha?im	amr-u	zot	le-is;\D\fo1(/	-mi-s;\D\fo1(ehu? 
+	Ha?im	amr-u	zot	le-is;\D\fo1(/	-mi-s;\D\fo1(ehu?
 	q	said-3pl	that	to-person	who-indef
 	‘Did they tell this to anyone?’
-	(G82: 463)
+	glinert1982[463]
 
 indirect negation
-	Ani	lo	Ìos;\D\fo1(evet	s;\D\fo1(e-nir?a	is;\D\fo1(/	mi-s;\D\fo1(ehu	ba-reÌov. 
+	Ani	lo	Ìos;\D\fo1(evet	s;\D\fo1(e-nir?a	is;\D\fo1(/	mi-s;\D\fo1(ehu	ba-reÌov.
 	I	neg	think:f	that-was:seem(3sg)	person	who-indef	in:the-street
 	‘I don’t think that anyone was seen in the street.’
 
 direct negation
-		Lo	ra?i-ti	is;\D\fo1(/	af	eÌad. 
+		Lo	ra?i-ti	is;\D\fo1(/	af	eÌad.
 		neg	saw-1sg	person	indef	one
 		‘I did not see anybody.’
 
 direct negation
-		Lo	ra?i-ti	kol/	s;\D\fo1(um	student. 
+		Lo	ra?i-ti	kol/	s;\D\fo1(um	student.
 		neg	saw-1sg	any	any	student
 		‘I did not see any student.’
 
 direct negation
-		Af	eÌad/	is;\D\fo1(		lo	ba. 
+		Af	eÌad/	is;\D\fo1(		lo	ba.
 		indef	one	person	neg	came(3sg)
 		‘Nobody came.’
-		(G82: 434   )
+		glinert1982[434]
 
 free choice
-	Ti-rs;\D\fo1(om	kol	ktovet	s;\D\fo1(ehi. 
+	Ti-rs;\D\fo1(om	kol	ktovet	s;\D\fo1(ehi.
 		2sg-will:note	any	address	indef
 		‘Note down any address.’
-		(G82: 445)
+		glinert1982[445]
 
 free choice
-	Ani	muxan	la-gur	be-dira	kol-s;\D\fo1(ehi. 
+	Ani	muxan	la-gur	be-dira	kol-s;\D\fo1(ehi.
 		I	willing	to-live	in-apartment	any-indef
 		‘I am willing to live in any apartment.’
-		(G89)	
+		glinert1989
 
 
 haus1257
 Hausa
 
 specific
-	Wani	àbù	yaa	sàamee	shi. 
+	Wani	àbù	yaa	sàamee	shi.
 	some	thing	3sg:pst	happen	him
 	‘Something has happened to him.’
-	(M90: 252)
+	manewman1990[252]
 
 irrealis non-specific
-	Wata	raanaa	sáà	daawoo. 
+	Wata	raanaa	sáà	daawoo.
 	some	day	3pl:fut	return
 	‘Some day they’ll return.’
-	(M90: 252)
+	manewman1990[252]
 
 question
-		Kaa	ga	wani	mùtûm	à	oofìs? 
+		Kaa	ga	wani	mùtûm	à	oofìs?
 		2sg:pst	see	some	man	in	office
 		‘Did you see someone at the office?’
-		(M90: 252)
+	manewman1990[252]
 
 conditional
-		Ìdan	kaa	jíì	wani	àbù,	kà	taashè	ni. 
+		Ìdan	kaa	jíì	wani	àbù,	kà	taashè	ni.
 		if	2sg:perf	hear	some	thing	2sg:sbjv	wake	me
 		‘If you hear anything, wake me up.’
-		
+
 comparative
-	Yaa	san	tà	fìye	dà	koo-waa. 
+	Yaa	san	tà	fìye	dà	koo-waa.
 	3sg:pst	know	her	better	than	indef-who
 	‘He knows her better than anyone else.’
-	(M90: 11)
+	manewman1990[11]
 
 free choice
-	Anàa	saamùn-sà	koo-’ìnaa. 
+	Anàa	saamùn-sà	koo-’ìnaa.
 	one:pres	get-3sg	indef-where
 	‘You can get it anywhere.’
-	(M90: 12)
+	manewman1990[12]
 
 direct negation
-	Bà	mù	hàdu	dà	koo-waa	à	hanyàa	ba. 
+	Bà	mù	hàdu	dà	koo-waa	à	hanyàa	ba.
 	neg	1pl:pst	meet	to	indef-who	on	road	neg
 	‘We didn’t meet anyone on the road.’
-	(M90: 11)
-	
-question
-		Koo-mèe	ya	batà? 
-		indef-what	3sg:pst	lost
-		‘Is anything lost?’
-		(A46: 535)
+	manewman1990[11]
 
 question
-		Koo-wàa	ya	zoo? 
+		Koo-mèe	ya	batà?
+		indef-what	3sg:pst	lost
+		‘Is anything lost?’
+	attouman1984[535]
+
+
+question
+		Koo-wàa	ya	zoo?
 		indef-who	3sg:pst	come
 		‘Has anyone come?’
-		(A46: 541)
+	attouman1984[541]
+
 
 question
 	Koo-mee	ya	batà?
 	indef-what	3sg:pst	lost
 	‘Is everything lost?’
 
- 
+
 swa1253
-Swahili 
+Swahili
 
 specific unknown
-		Mtu	a-li-ni-gusa. 
+		Mtu	a-li-ni-gusa.
 		man	3sg-pst-me-touch
 		‘Somebody has touched me.’
 		(NT, Lk 8.46)
 
 specific known
-		A-na	neno	la	ku-mw-arifu. 
+		A-na	neno	la	ku-mw-arifu.
 		3sg-has	word	of	inf-him-tell
 		‘She has something to tell him.’
 
 irrealis non-specific
-	Yesu	a-li-mw-ambia...	kwamba	a-wa-pe	maskini	kitu. 
+	Yesu	a-li-mw-ambia...	kwamba	a-wa-pe	maskini	kitu.
 	Jesus	3sg-pst-him-tell	that	3sg-them-give:sbjv	poor	thing
 	‘Jesus told him to give something to the poor.’
 	(NT, John 13.29)
 
 question
-		Wa-ona	kitu? 
+		Wa-ona	kitu?
 		2sg-see	thing
 		‘Do you see anything?’
 		(NT, Mk 8.23)
 
-conditional	
-		Kama	mtu	a-ki-wa-ambia	neno,	seme-ni,	Bwana	a-na	haja	na-o. 
+conditional
+		Kama	mtu	a-ki-wa-ambia	neno,	seme-ni,	Bwana	a-na	haja	na-o.
 		if	man	3sg-if-you-tell	word	say-pl	Lord	3sg-has	need	with-3pl
-		‘If anyone says anything to you, say, the Lord needs them.’ 
+		‘If anyone says anything to you, say, the Lord needs them.’
 		(NT, Mt 21.3)
 
 indirect negation
-	Tokea	hapo	ha-i-ja-siki-wa	ya kuwa	mtu	a-me-ya-fumbua	macho	ya	kipofu. 
+	Tokea	hapo	ha-i-ja-siki-wa	ya kuwa	mtu	a-me-ya-fumbua	macho	ya	kipofu.
 	since	then	neg-hear-pass	that	man	3sg-perf-them-open	eyes	of	blind
-	‘Since the world began was it not heard that any man opened the eyes of one that was born blind.’ 
+	‘Since the world began was it not heard that any man opened the eyes of one that was born blind.’
 	(NT, John 9.32)
 
 direct negation
-	Wala	ha-wa-kumw-ambia	mtu	neno. 
-	and	neg-them-him-say	man	thing	
+	Wala	ha-wa-kumw-ambia	mtu	neno.
+	and	neg-them-him-say	man	thing
 	‘And they did not say anything to anybody.’
 	(NT, Mk 16.8)
 
 free choice
-	Daktari	yule	a-ta-ponya	magonjwa	yo yote. 
+	Daktari	yule	a-ta-ponya	magonjwa	yo yote.
 	doctor	that	3sg-fut-cure	disease	any
 	‘That doctor will cure any disease whatsoever.’
 
 direct negation
-	Ninyi	ha-m-jui	neno	lo lote. 
+	Ninyi	ha-m-jui	neno	lo lote.
 	you	neg-it-know	word	any
-	‘You don’t know anything.’	
+	‘You don’t know anything.’
 	(NT, John 11.49)
 
 question
-		A-li-mw-ambia	malaika	yupi	wakati	wo wote,	Ndi-we	mwana-ngu? 
+		A-li-mw-ambia	malaika	yupi	wakati	wo wote,	Ndi-we	mwana-ngu?
 		3sg-pst-him-say	angel	which	time	any	you-are	son-1sg
-		‘To which of the angels did he ever say, You are my son?’ 
+		‘To which of the angels did he ever say, You are my son?’
 		(NT, Heb 1.5)
 
 conditional
-		M-ki-ni-omba	neno	lo lote	kwa	jina	langu,	ni-ta-li-fanya. 		
+		M-ki-ni-omba	neno	lo lote	kwa	jina	langu,	ni-ta-li-fanya.
 		you-cond-me-ask	word	any	by	name	mine	1sg-fut-it-do
-		‘If you ask anything in my name, I will do it.’ 
+		‘If you ask anything in my name, I will do it.’
 		(NT, John 14.14)
 
 
@@ -1903,41 +2012,42 @@ nucl1302
 Georgian
 
 specific known
-		Es	c’igni	sad-Vac	v-is;\D\fo1(ove. 
+		Es	c’igni	sad-Vac	v-is;\D\fo1(ove.
 		this	book	where-indef	1sg-found
 		‘I found this book somewhere [I could say where].’
-		(V71: 47)
+		vogt1971[47]
 
 specific unknown
-		Movida	vi-Vac	<*vin-me>	rusi. 
+		Movida	vi-Vac	<*vin-me>	rusi.
 		came	who-indef	who-indef	Russian
 		‘Some Russian person has come [I don’t know him/her].’
-		(V71: 47)
+		vogt1971[47]
 
 irrealis non-specific
-		DauJaxet	vi-s-me! 
+		DauJaxet	vi-s-me!
 		call:impv:pl	who-dat-indef
 		‘Call somebody!’
 
 irrealis non-specific
-		Es	c’igni	sad-me	unda	v-is;\D\fo1(ovo. 
+		Es	c’igni	sad-me	unda	v-is;\D\fo1(ovo.
 		this	book	where-indef	necessary	1sg-find:sbjv
 		‘I have to find this book somewhere.’
-		(V71: 47)
+		vogt1971[47]
+
 question
-		Mosula	vin-me		<*vi-Vac>? 
+		Mosula	vin-me		<*vi-Vac>?
 		came	who-indef	who-indef
 		‘Has anyone come?’
-		(V71: 47)
+	vogt1971[47]
 
 conditional
-		Tu	vin-me	movides,	utxari. 
+		Tu	vin-me	movides,	utxari.
 		if	who-indef	comes	tell:impv
 		‘If anyone comes, tell (me).’
 
 indirect negation
 	Vera-prit	ver	daitanxmes	rom	rogor-me	sad-me	sc’avla	ganegrJo.
-	neg-way	neg	persuade:him	that	how-indef	where-indef	study		he:continue:sbjv	
+	neg-way	neg	persuade:him	that	how-indef	where-indef	study		he:continue:sbjv
 	‘They couldn’t persuade him to continue his studies anywhere in any way.’
 
 comparative
@@ -1946,69 +2056,69 @@ comparative
 	'He knows Georgian better than anyone else.'
 
 direct negation
-  	Me	ara-sodes		ara-vis-gan	ara-pers		ar	mi-v-iVeb. 
-		I	neg-when	neg-who-from	neg-thing	neg	prev-1sg-get	
+  	Me	ara-sodes		ara-vis-gan	ara-pers		ar	mi-v-iVeb.
+		I	neg-when	neg-who-from	neg-thing	neg	prev-1sg-get
 	‘I’ll never get anything from anybody.’
-	(T58: 223)
+	tschenkeli1958[223]
 
 direct negation
-		Mas	ara-vis-tvis	utkvams. 
+		Mas	ara-vis-tvis	utkvams.
 		he	neg-who-for	has:told
 		‘He hasn’t told anybody.’
 
 direct negation
-		Nura-vi-s	nu	et’q’vi! 
+		Nura-vi-s	nu	et’q’vi!
 		neg-who-dat	neg	tell
 		‘Don’t tell anybody!’
-		(V71: 48)
+		vogt1971[48]
 
 
 nucl1305
 Kannada
 
 specific unknown
-		Yaar-oo	<*yaar-uu, *yaar-aadaruu>	bandaru; 	(*yaaru	uuhisi.) 
+		Yaar-oo	<*yaar-uu, *yaar-aadaruu>	bandaru; 	(*yaaru	uuhisi.)
 		who-indef					came	who	guess
 		‘Someone <*anyone> came; (*guess who).’
-		(B81: 7)
+		bhat1981[7]
 
 irrealis non-specific
-		Ellig-aadaruu <*ellig-oo>	hoogu. 
+		Ellig-aadaruu <*ellig-oo>	hoogu.
 		where-indef			go
 		‘Go somewhere.’
-		(B81: 6)
+		bhat1981[6]
 
 question
-			Raamu	ellig-aadaruu <*ellig-oo, *ellig-uu>	hoodan-oo? 
+			Raamu	ellig-aadaruu <*ellig-oo, *ellig-uu>	hoodan-oo?
 			Ramu	where-indef				go-q
 			‘Did Ramu go anywhere?’
-			(B81: 6)
+			bhat1981[6]
 
 conditional
-		b.	Yaar-aadaruu <*yaar-oo, *yaar-uu>	band-are	heel5-utt-eene. 
-			who-indef				come-cond	tell-fut-1sg	
+			Yaar-aadaruu <*yaar-oo, *yaar-uu>	band-are	heel5-utt-eene.
+			who-indef				come-cond	tell-fut-1sg
 			‘I’ll tell you if anyone comes.’
-			(B81: 7)
+			bhat1981[7]
 
 free choice
-		Raamu	ellig-uu	hoodaanu. 
+		Raamu	ellig-uu	hoodaanu.
 		Ramu	where-indef	may.go
 		‘Ramu may go anywhere.’
-		(B81: 4)
+	bhat1981[4]
 
 direct negation
-		Illige	yaar-uu	baral-illa. 
+		Illige	yaar-uu	baral-illa.
 		hither	who-indef	come-neg
 		‘No one came here.’
-		(S90: 256)
+		sridhar1990[256]
 
 indirect negation
-		Yaar-uu		baruvudu	avas;\D\fo1(ya	illa. 
+		Yaar-uu		baruvudu	avas;\D\fo1(ya	illa.
 		who-indef	come:masd	necessary	neg
 		‘It is not necessary for anyone to come.’
 
 comparative
-		Illi	have	beere	yaava	kad5e-g-intal-uu	cann-aag-ide. 
+		Illi	have	beere	yaava	kad5e-g-intal-uu	cann-aag-ide.
 		here	climate	other	which	place-dat-than-indef	good-become-is
 		‘Here the climate is better than in any other place.’
 
@@ -2018,39 +2128,39 @@ mand1415
 Chinese
 
 irrealis non-specific
-	Chi;\D\fo1(	dia;\D\fo1(n	shénme	zài	zo;\D\fo1(u	ba! 
+	Chi;\D\fo1(	dia;\D\fo1(n	shénme	zài	zo;\D\fo1(u	ba!
 	eat	a.bit	what	then	go	pt
 	‘Please eat a little something before you leave.’
-	(L92: 152)
+	li1992[152]
 
 irrealis non-specific
-	Ta;\D\fo1(	ha;\D\fo1(oxiàng	xi;\D\fo1(huan	shénme. 
+	Ta;\D\fo1(	ha;\D\fo1(oxiàng	xi;\D\fo1(huan	shénme.
 		he	seem	like	what
 		‘He seems to like something.’
-		(L92: 131)
+		li1992[131]
 
 irrealis non-specific
-	Ta;\D\fo1(	kàndao	(le)	shénme	le. 
+	Ta;\D\fo1(	kàndao	(le)	shénme	le.
 			he	see	perf	what	perf
 			‘He must have seen something.’
-			(L92: 133)
+			li1992[133]
 
 question
-	Shéi	xi;\D\fo1(huan	ta;\D\fo1(	ma? 
+	Shéi	xi;\D\fo1(huan	ta;\D\fo1(	ma?
 			who	like	him	q
 			‘Does anyone like him?’
-			(L92: 128)
+			li1992[128]
 
 conditional
-	Ni;\D\fo1(	yàoshì	yào	shénme	dehuà,	èn	língr	zhòu	xíngle. 
-			you	if	want	what		press			
+	Ni;\D\fo1(	yàoshì	yào	shénme	dehuà,	èn	língr	zhòu	xíngle.
+			you	if	want	what		press
 			‘If you want something, ring the bell.’
 
 direct negation
-	Ta;\D\fo1(	bù	wèi	shénme	rén	zuò	shì. 
+	Ta;\D\fo1(	bù	wèi	shénme	rén	zuò	shì.
 			he	not	for	what	man	do	thing
 			‘He does not work for anyone.’
-			(L92:127)
+			li1992[127]
 
 direct negatio
 	Ta;\D\fo1(	bù	xi;\D\fo1(huan	shénme.
@@ -2073,51 +2183,51 @@ specific known
 	‘Someone called. Guess who.’
 
 specific unknown
-	Yo;\D\fo1(u	rén	da;\D\fo1(	diànhuà	le.	
+	Yo;\D\fo1(u	rén	da;\D\fo1(	diànhuà	le.
 	exist	man	hit	phone	perf
-	(Wo	bù	zhi;\D\fo1(dao	shì	shéi./	Ca;\D\fo1(i	yi;\D\fo1(	ca;\D\fo1(i	shì	shéi.) 
+	(Wo	bù	zhi;\D\fo1(dao	shì	shéi./	Ca;\D\fo1(i	yi;\D\fo1(	ca;\D\fo1(i	shì	shéi.)
 	I	not	know	is	who	guess	one	guess	is	who
 	‘Someone called. I don’t know who.’
 
 direct negation
-	Wo;\D\fo1(	shéi-ye;\D\fo1(	bù	rènshi.	
+	Wo;\D\fo1(	shéi-ye;\D\fo1(	bù	rènshi.
 			I	who-indef	not	know
 			‘I don’t know anyone.’
-			(LT81: 529)
+			li1981[529]
 
 direct negation
-	Ta;\D\fo1(	shéi-do;\D\fo1(u	bù	xìnren. 
+	Ta;\D\fo1(	shéi-do;\D\fo1(u	bù	xìnren.
 			she	who-indef	not	trust
 			‘She doesn’t trust anyone.’
-		(LT81: 528)
+		li1981[528]
 
 direct negation
-	Wo;\D\fo1(	shénme	dìfang	do;\D\fo1(u/ye;\D\fo1(	bù	qù. 
+	Wo;\D\fo1(	shénme	dìfang	do;\D\fo1(u/ye;\D\fo1(	bù	qù.
 			I	which	place	indef	not?	go?
 			‘I’m not going anywhere.’
 
 direct negation
 	Shèi-do;\D\fo1(u	bù	co;\D\fo1(ngmíng.
 			who-indef	not	intelligent
-			‘No one is intellingent.’ 
+			‘No one is intellingent.’
 
 free choice
-		Rènhé	shíhou	ni;\D\fo1(	do;\D\fo1(u	ke;\D\fo1(yi;\D\fo1(	lái. 
+		Rènhé	shíhou	ni;\D\fo1(	do;\D\fo1(u	ke;\D\fo1(yi;\D\fo1(	lái.
 			any	time	you	indef	can	come
 			‘You can come anytime.’
 
 comparative
-		Ta;\D\fo1(	pa;\D\fo1(o	de	bi;\D\fo1(	rènhé	yi;\D\fo1(ge	nánshe;\D\fo1(ng	do;\D\fo1(u	kuài. 
+		Ta;\D\fo1(	pa;\D\fo1(o	de	bi;\D\fo1(	rènhé	yi;\D\fo1(ge	nánshe;\D\fo1(ng	do;\D\fo1(u	kuài.
 		he	run	pt	than	any	one	boy	indef	fast
 		‘He runs faster than any boy.’
 
 direct negation
-		Ta;\D\fo1(	bù	néng	táo	dào	rènhé	dìfang	qu. 
+		Ta;\D\fo1(	bù	néng	táo	dào	rènhé	dìfang	qu.
 		he	neg	can	escape	to	any	place	go
 		‘He cannot escape anywhere.’
 
 indirect negation
-		Wo;\D\fo1(	bù	xia;\D\fo1(ngxin	rènhé	rén	lái	le. 
+		Wo;\D\fo1(	bù	xia;\D\fo1(ngxin	rènhé	rén	lái	le.
 		I	not	think	any	man	come	perf
 		‘I don’t think that anyone came.’
 
@@ -2166,10 +2276,10 @@ free choice
 	‘Anyone can solve this problem.’
 
 direct negation
-		Ama	ima-pis	ni-y-chu. 
+		Ama	ima-pis	ni-y-chu.
 		not	what-indef	say-impv.2sg-neg
 		‘Don’t say anything!’
-		(Weber 1989: 21)
+		weber1989[21]
 
 direct negation
 		Pi-pis		ni	ima-ta-pis	ni-ma-rqa-n-tsu.
@@ -2189,55 +2299,53 @@ specific known
 	Dare-ka	kara	denwa	at-ta	kedo,	dare	kara	da	ka	ate-te	goran.
 	who-indef	from	phone	be-pst	though		who	from	be:pres	q	figure.out-conv	try:impv
 	‘Someone called, guess who!’
-	 
-		
-		
 
+specific unknown
 	Dare-ka	kara	denwa	at-ta	kedo,	dare	kara	da	ka	wakara-na-i.
 	who-indef	from	phone	be-pst	though		who	from	be:pres	q	know-neg-pres
 	‘Someone called, but I don’t know who.’
-	
+
 irrealis non-specific
-		Dare-ka	ni	ki-ite	mi-masyoo. 
+		Dare-ka	ni	ki-ite	mi-masyoo.
 		who-indef	dat	ask-conv	try-pol:hort
 		‘Let’s ask somebody.’
 
 irrealis non-specific
-		Minna-ga	nani-ka-o	tabe-ta. 
+		Minna-ga	nani-ka-o	tabe-ta.
 		every-nom	what-indef-acc	eat-pst
 		‘Everybody ate something (non-specific).’
-		(O84: 238)
+		ohno1984[238]
 
 question
-		Rusutyuu-ni	dare-ka	<*dare-mo>	ki-masi-ta	ka? 
+		Rusutyuu-ni	dare-ka	<*dare-mo>	ki-masi-ta	ka?
 		absence.duration-dat	who-indef	who-indef	come-pol-pst	q
-		‘Did somebody/anybody come while I was gone?’ 
-		(M76: 409)
+		‘Did somebody/anybody come while I was gone?’
+		mcgloin1976[409]
 
 conditional
 		Nani-ka	<*nani-mo>	tabe-tara,	eiga	e	ture-te	it-te 	age-na-i	yo	give-neg-pres	ass
-		what-indef	what-indef	eat-cond	movie	to	take-conv	go-conv	
-		‘If you eat something/anything, I won’t take you to the movie.’ 
-		(M76: 415)
+		what-indef	what-indef	eat-cond	movie	to	take-conv	go-conv
+		‘If you eat something/anything, I won’t take you to the movie.’
+		mcgloin1976[415]
 
 comparative
-	Kono	syoonen-wa	kono	kurasu-no	dare-yori-mo	hayaku	hasir-u. 
+	Kono	syoonen-wa	kono	kurasu-no	dare-yori-mo	hayaku	hasir-u.
 	this	boy-top	this	class-gen	who-from-indef	fast		run-pres
 	‘This boy can run faster than anyone in his class.’
 
 direct negation
-	Dare-mo	kanojo-o	aisi-te	i-na-i. 
+	Dare-mo	kanojo-o	aisi-te	i-na-i.
 	who-indef	she-acc	love-conv	dur-neg-pres
 	‘Nobody loves her.’
 
 indirect negation
-	Kyoo-wa	dare-mo	ku-ru	to	omow-ana-i. 
+	Kyoo-wa	dare-mo	ku-ru	to	omow-ana-i.
 	today-top	who-indef	come-pres	sbor	think-neg-pres
 	‘I don’t think anybody is coming today.’
-	(M76: 405)
+	mcgloin1976[405]
 
 free choice
-	Dare-demo	deki-masu. 
+	Dare-demo	deki-masu.
 	who-indef	possible-pol-pres
 	‘Anybody can do it.’
 
@@ -2246,25 +2354,25 @@ kore1280
 Korean
 
 specific known
-		Nwu’-ka/	nwukwu-inka-ka	kel-ess-ta. 
+		Nwu’-ka/	nwukwu-inka-ka	kel-ess-ta.
 		who-nom	who-indef-nom	call-pst-decl
 		‘Somebody called. (I didn’t catch her name./Guess who.)’
 
 specific unknown
-		Ku	sonyen-un	mues-ul/	mues-inka-lul	po-ass-ta. 
+		Ku	sonyen-un	mues-ul/	mues-inka-lul	po-ass-ta.
 		this	boy-nom	what-acc	what-indef-acc	see-pst-decl
 		‘The boy saw something.’
 
 irrealis non-specific
-		Molu-myen,	nwukwu-eykey/	nwukwu-nka-eykey	mul-ela. 
+		Molu-myen,	nwukwu-eykey/	nwukwu-nka-eykey	mul-ela.
 		ignorant-conv	who-dat	who-indef-dat	ask-impv
 		‘If you don’t know, ask somebody.’
 
 irrealis non-specific
-		Eti	ka-psita. 
+		Eti	ka-psita.
 		where	go-hort
 		‘Let’s go somewhere.’
-		(ML69: 411)
+		martin1986[411]
 
 conditional
 		Ku	sonye-ka	mues-ul/	mue-nka-lul	<*mues-ina/	*mues-itunci>	chacu-myen,	kunye	emeni-eykey	malha-lkesi-ta.
@@ -2273,21 +2381,21 @@ conditional
 
 question
 		Chelswu	mues-ul/	mue-nka-lul	<*mues-ina	*mues-itunci>	ilk-ess-ni?
-		Chelswu	what-acc	what-indef-acc	what-indef	what-indef	read-pst-q	
+		Chelswu	what-acc	what-indef-acc	what-indef	what-indef	read-pst-q
 		‘Did Chelswu read anything?’
 
 free choice
 		Nwukwu-na/	nwukwu-tunci/	amu-na/	amu-tunci	i	muncey-lul		phul		swu-iss-ta.
-		who-indef	who-indef	any-indef	any-indef	this	problem-acc	solve	do-can-decl	
+		who-indef	who-indef	any-indef	any-indef	this	problem-acc	solve	do-can-decl
 		‘Anybody can solve this problem.’
 
 indirect negation
-	Nwukwu-to/	nwukwu-lul/	nwukwu-nka-lul	chacki-ka	pulkanung	ha-ta. 
+	Nwukwu-to/	nwukwu-lul/	nwukwu-nka-lul	chacki-ka	pulkanung	ha-ta.
 	who-indef	who-acc	who-indef-acc	find-top	impossible	be-decl
 	‘It’s impossible to find anyone.’
 
 direct negation
-		Ku	sonye-nun	amu-to/	nwukwu-to	an	po-ass-ta. 
+		Ku	sonye-nun	amu-to/	nwukwu-to	an	po-ass-ta.
 		this	girl-top	any-indef	who-indef	neg	see-pst-decl
 		‘The girl did not see anybody.’
 
@@ -2297,30 +2405,31 @@ direct negation
 		‘Nobody said anything.’
 
 comparative
-	Yeki-ka	enu	kos	pota	to	te	alumtap-ta. 
+	Yeki-ka	enu	kos	pota	to	te	alumtap-ta.
 	here-top	which	place	than	indef	more	beautiful-decl
-	‘Here it is more beautiful than anywhere.’	
+	‘Here it is more beautiful than anywhere.’
 
 
 basq1248
 Basque
 
 specific unknown
-	Nor-bait-i	utzi	nion	argazki-makina	eta	ez	naiz	oroi-tzen	nor-i. 
+	Nor-bait-i	utzi	nion	argazki-makina	eta	ez	naiz	oroi-tzen	nor-i.
 	who-indef-dat	lend	I:it:to.him	photo-machine	and	neg	I:it	remember-hab	who-dat
 	‘I lent the camera to someone and I do not remember to whom.’
-	(S88: ex. 1070)
+	saltarelli1988[ex1070]
 
 irrealis non-specific
-		Nora-bait	joa-te-ko	gogoa	dut,	baina	ez	dakit	nora. 
+		Nora-bait	joa-te-ko	gogoa	dut,	baina	ez	dakit	nora.
 		where-indef	go-hab-rel	thought	I:have:it	but	neg	I:know:it	where
-		‘I have an urge to go somewhere but I do not know where.’ 
-		(S88: ex. 976b)
+		‘I have an urge to go somewhere but I do not know where.’
+		saltarelli1988[ex976b]
 
 irrealis non-specific
-	Pozik	hartu-ko	nuke	nor-bait-ek	laguntzea. (S88: ex. 158)
+	Pozik	hartu-ko	nuke	nor-bait-ek	laguntzea.
 		gladly	accept-fut	I:would	who-indef-erg	helping
 		‘I would gladly accept someone helping me.’
+	saltarelli1988[ex158]
 
 specific known
 	Kanpoa-n	zengoze-n-en-ean	baten	batek	dei	egin	zizun.	Esan	nor.
@@ -2328,10 +2437,10 @@ specific known
 	'Someone called while you were away. Guess who it was.'
 
 question
-	E-zer	<??zer-bait>	jan	nahi	al	duzu? 
+	E-zer	<??zer-bait>	jan	nahi	al	duzu?
 		indef-what	what-indef	eat	want	q	you:it
 		‘Would you like to eat something?’
-		(A89: 206)
+		aulestia1989[206]
 
 conditional
 	E-zer	<??zer-bait>	ikusten	ba-duzu,	esaidazu.
@@ -2344,25 +2453,25 @@ comparative
 	The weather in San Sebastián is more pleasant than anywhere else.'
 
 indirect negation
-	Ez	dut	uste	[gizon	hori	i-noiz	ikusi	dud-anik. 
+	Ez	dut	uste	[gizon	hori	i-noiz	ikusi	dud-anik.
 	neg	I:it	believe	[man	that	indef-when	see	I:him]-sbor
 	‘I don’t believe that I’ve ever seen that man.’
-	(S88:ex. 178)
+	saltarelli1988[ex178]
 
 direct negation
-	I-nor-i	i-noiz	ez	diozu	deusik	eman. 
+	I-nor-i	i-noiz	ez	diozu	deusik	eman.
 	indef-who-dat	indef-when	neg	you:it:to.him	anything	give
 	‘You haven’t ever given anyone anything.’
-	(A89: 305)
+	aulestia1989[305]
 
 free choice
-	Galde-tzen	duzuna	edo-zein	liburu-tan	aurki	dezakezu. 
+	Galde-tzen	duzuna	edo-zein	liburu-tan	aurki	dezakezu.
 		ask-hab	you:it	indef-which	book-loc	find	you:can:it
 		‘You can find what you are asking about in any book.’
-		(S88: ex. 895)
+	saltarelli1988[ex895]
 
 free choice
-	Nor-nahi-k	eduki-ko	du	hik	baino	botere	gehiago. 
+	Nor-nahi-k	eduki-ko	du	hik	baino	botere	gehiago.
 		who-indef-erg	have-fut	he:it	you:erg	than	power	more
 		‘Anyone will have more power than you.’
-	(A89: 432)
+	aulestia1989[432]

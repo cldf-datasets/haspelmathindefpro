@@ -37,12 +37,18 @@ def extract_examples(txt_lines):
             line = next(lines).lstrip(' ').rstrip()
         except StopIteration:
             break
+        if line == '\tconditional':
+            line = 'conditional'
+        elif line in {'sola1973[94-95]', 'pilka1984[146]', 'pilka1984[87]'}:
+            line = f'\t{line}'
+        elif line == 'swa1253':
+            line = 'swah1253'
         if re.fullmatch(r'[a-z]{4}\d{4}', line):
             glottocode = line
             # consume language name
             _ = next(lines)
         elif re.match(r'\S', line):
-            feature = line
+            feature = line.strip()
             if example:
                 assert glottocode
                 assert feature
@@ -210,19 +216,29 @@ def strip_quotes(text):
 def extract_example_source(txt_example):
     lines = txt_example.lines
     assert lines
-    source = None
-    if lines[-1][-1] == ')':
+    inline_sources = ['(Cic. Verr. 4.123)', '(B59: 28)', '(Weber 1989: 340)']
+    for suffix in inline_sources:
+        if lines[0].endswith(suffix):
+            source = suffix.lstrip('(').rstrip(')')
+            stripped = lines[0][:-len(suffix)].rstrip()
+            return source, txt_example._replace(lines=[stripped, *lines[1:]])
+
+    if lines[-1].endswith(')'):
         lastline = lines[-1]
         source_start = lastline.index('(')
-        # ) <= vim is stupid sometimes
         assert source_start >= 0, lines
-        source = lastline[source_start:]
+        source = lastline[source_start:].lstrip('(').rstrip(')')
         rest = lastline[:source_start].strip()
         new_lines = lines[:-1]
         if rest:
             new_lines.append(rest)
         txt_example = txt_example._replace(lines=new_lines)
-    return source, txt_example
+        return source, txt_example
+    elif (m := re.fullmatch(r'\s*(\w+\d{4}[a-z]?(?:\[[^\]]*\])?)\s*', lines[-1])):
+        source = m.group(1)
+        return source, txt_example._replace(lines=lines[:-1])
+    else:
+        return None, txt_example
 
 
 def merge_translation_lines(txt_example):
@@ -256,10 +272,9 @@ def fix_translation(txt_example):
 
 
 def make_example(txt_example, id_maker):
-    _source, txt_example = extract_example_source(txt_example)
+    source, txt_example = extract_example_source(txt_example)
     txt_example = fix_translation(txt_example)
     if re.match(r'\t*\(', txt_example.lines[-1]):
-        # ) <= vim is stupid sometimes
         txt_example = txt_example._replace(
             lines=txt_example.lines[:-1])
     if 'will:tell' in txt_example.lines[-1]:
@@ -279,6 +294,16 @@ def make_example(txt_example, id_maker):
     txt_example = merge_translation_lines(txt_example)
     gc = txt_example.glottocode
 
+    if source and re.fullmatch(r'\s*(\w+\[[^\]]*\])\s*', source):
+        bibkey = ''
+        source_prose = None
+    elif source:
+        bibkey = ''
+        source_prose = source
+    else:
+        bibkey = ''
+        source_prose = ''
+
     if len(txt_example.lines) == 2:
         return {
             'ID': id_maker.make_id(gc),
@@ -286,6 +311,8 @@ def make_example(txt_example, id_maker):
             'Primary_Text': normalise_example_text(txt_example.lines[0], gc),
             'Translated_Text': normalise_example_text(strip_quotes(txt_example.lines[1]), gc),
             'Parameter_ID': txt_example.feature,
+            'Source': bibkey,
+            'Source_comment': source_prose,
         }
     elif len(txt_example.lines) == 3:
         return {
@@ -294,12 +321,14 @@ def make_example(txt_example, id_maker):
             'Primary_Text': normalise_example_text(txt_example.lines[0], gc),
             'Analyzed_Word': [
                 normalise_example_text(word, gc)
-                for word in txt_example.lines[0].lstrip('\t').split('\t')],
+                for word in txt_example.lines[0].lstrip('\t').split()],
             'Gloss': [
                 normalise_example_text(word, gc)
-                for word in txt_example.lines[1].lstrip('\t').split('\t')],
+                for word in txt_example.lines[1].lstrip('\t').split()],
             'Translated_Text': normalise_example_text(strip_quotes(txt_example.lines[2]), gc),
             'Parameter_ID': txt_example.feature,
+            'Source': bibkey,
+            'Source_comment': source_prose,
         }
     else:
         raise AssertionError(txt_example.lines)
@@ -311,6 +340,113 @@ def make_examples(txt_examples):
         example
         for txt_example in txt_examples
         if (example := make_example(txt_example, id_maker))]
+
+
+Rule = namedtuple('Rule', 'lhs rhs')
+
+RULES = [
+    # german
+    Rule(['here', 'ever', 'indef-when'],
+         ['here', 'ever', '/', 'indef-when']),
+    # icelandic
+    Rule(['<*vad', 'som', 'helst>?'],
+         ['<*vad som helst>?']),
+    Rule(['<*vad', 'som', 'helst>?'],
+         ['<*vad som helst>?']),
+    # swedish
+    Rule(['vem', 'som', 'helst', 'annan'],
+         ['vem', 'som helst', 'annan']),
+    Rule(['vem', 'som', 'helst.'],
+         ['vem', 'som helst.']),
+    Rule(['any', 'thing', 'guess', 'what'],
+         ['any', 'thing', '–', 'guess', 'what']),
+    # portuguese
+    Rule(['mais', 'do', 'que', 'qualquer'],
+         ['mais', 'do que', 'qualquer']),
+    # romanian
+    Rule(['ce-va/', '*ori-ce,'],
+         ['ce-va/*ori-ce,']),
+    # bulgarian
+    Rule(['indef-what', 'give:impv', 'him', 'work'],
+         ['indef-what', '–', 'give:impv', 'him', 'work']),
+    Rule(['<*kakvo-to', 'i', 'da', 'e>?'],
+         ['<*kakvo-to i da e>?']),
+    Rule(['kakvo-to', 'i', 'da', 'e,'],
+         ['kakvo-to i da e,']),
+    Rule(['koj-to', 'i', 'da', 'e'],
+         ['koj-to i da e']),
+    Rule(['kogo-to', 'i', 'da', 'bilo'],
+         ['kogo-to i da bilo']),
+    Rule(['kakva-to', 'i', 'da', 'e/'],
+         ['kakva-to i da e/']),
+    # irish
+    Rule(['any', 'person', 'at:them'],
+         ['any', 'person', 'at:them', '...']),
+    Rule(['on', 'manner', 'on', 'world'],
+         ['on', 'manner', 'on', 'world', '...']),
+    Rule(['go', 'deo/', 'choíche', '...'],
+         ['go deo/ choíche', '...']),
+    Rule(['if', 'comes', 'he', 'ever'],
+         ['if', 'comes', 'he', 'ever', '...']),
+    # kazakh
+    Rule(['bolsa', 'da'],
+         ['bolsa da']),
+    # hungarian
+    Rule(['sem-mi-t', '<*akár-mi-t,', '*bár-mi-t>.'],
+         ['sem-mi-t <*akár-mi-t, *bár-mi-t>.']),
+    # swahili
+    Rule(['ya', 'kuwa', 'mtu'],
+         ['ya kuwa', 'mtu']),
+    Rule(['magonjwa', 'yo', 'yote.'],
+         ['magonjwa', 'yo yote.']),
+    Rule(['neno', 'lo', 'lote.'],
+         ['neno', 'lo lote.']),
+    Rule(['wakati', 'wo', 'wote,'],
+         ['wakati', 'wo wote,']),
+    Rule(['neno', 'lo', 'lote'],
+         ['neno', 'lo lote']),
+    # kannada
+    Rule(['Yaar-oo', '<*yaar-uu,', '*yaar-aadaruu>'],
+         ['Yaar-oo <*yaar-uu, *yaar-aadaruu>']),
+    Rule(['Ellig-aadaruu', '<*ellig-oo>'],
+         ['Ellig-aadaruu <*ellig-oo>']),
+    Rule(['ellig-aadaruu', '<*ellig-oo,', '*ellig-uu>'],
+         ['ellig-aadaruu <*ellig-oo, *ellig-uu>']),
+    Rule(['Yaar-aadaruu', '<*yaar-oo,', '*yaar-uu>'],
+         ['Yaar-aadaruu <*yaar-oo, *yaar-uu>']),
+    # japanese
+    Rule(['it-te', 'age-na-i', 'yo', 'give-neg-pres', 'ass'],
+         ['it-te', 'age-na-i', 'yo']),
+    Rule(['movie', 'to', 'take-conv', 'go-conv'],
+         ['movie', 'to', 'take-conv', 'go-conv', 'give-neg-pres', 'ass']),
+]
+
+
+def apply_rule(rule, words):
+    raw_i = 0
+    while raw_i < len(words):
+        i = raw_i
+        rule_i = 0
+        while rule_i < len(rule.lhs) and i < len(words) and rule.lhs[rule_i] == words[i]:
+            rule_i += 1
+            i += 1
+        if rule_i == len(rule.lhs):
+            words = list(chain(
+                islice(words, raw_i),
+                rule.rhs,
+                islice(words, raw_i + len(rule.lhs), None)))
+            raw_i += len(rule.rhs)
+        else:
+            raw_i += 1
+    return words
+
+
+def transform_glosses(example):
+    for rule in RULES:
+        if (analysed := example.get('Analyzed_Word')):
+            example['Analyzed_Word'] = apply_rule(rule, analysed)
+        if (gloss := example.get('Gloss')):
+            example['Gloss'] = apply_rule(rule, gloss)
 
 
 def visual_len(s):
@@ -493,7 +629,10 @@ def make_schema(cldf):
             'separator': ';',
             'name': 'Example_IDs',
         })
-    cldf.add_component('ExampleTable')
+    cldf.add_component(
+        'ExampleTable',
+        'http://cldf.clld.org/v1.0/terms.rdf#source',
+        'Source_comment')
     cldf.add_table(
         'constructions.csv',
         'http://cldf.clld.org/v1.0/terms.rdf#id',
@@ -557,6 +696,8 @@ class Dataset(BaseDataset):
         languages = {
             lg['ID']: lg
             for lg in make_languages(raw_data, args.glottolog.api)}
+        for example in examples:
+            transform_glosses(example)
         examples = [ex for ex in examples if glosses_are_aligned(ex, languages)]
         constructions = make_constructions(raw_data)
         ccodes = make_ccodes(cparameters)
