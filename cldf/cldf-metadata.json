@@ -8,13 +8,14 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:identifier": "https://crossgram.clld.org/contributions/haspelmathindefpro",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:source": "sources.bib",
     "dc:title": "Indefinite Pronoun Markers",
     "dcat:accessURL": "https://github.com/cldf-datasets/haspelmathindefpro",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/cldf-datasets/haspelmathindefpro",
             "rdf:type": "prov:Entity",
-            "dc:created": "8fc9bd0",
+            "dc:created": "c8668eb",
             "dc:title": "Repository"
         },
         {
@@ -223,6 +224,16 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
                         "required": false,
                         "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source_comment"
                     }
                 ],
                 "primaryKey": [
@@ -326,7 +337,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 383,
+            "dc:extent": 432,
             "tableSchema": {
                 "columns": [
                     {
@@ -403,6 +414,16 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
                         "required": false,
                         "name": "Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source_comment"
                     }
                 ],
                 "foreignKeys": [
