@@ -296,8 +296,8 @@ def make_example(txt_example, id_maker):
     gc = txt_example.glottocode
 
     if source and re.fullmatch(r'\s*(\w+\[[^\]]*\])\s*', source):
-        bibkey = ''
-        source_prose = None
+        bibkey = [source]
+        source_prose = ''
     elif source:
         bibkey = ''
         source_prose = source
