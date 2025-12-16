@@ -9,13 +9,13 @@
     "dc:identifier": "https://crossgram.clld.org/contributions/haspelmathindefpro",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
-    "dc:title": "Indefinite Pronoun Markers",
+    "dc:title": "Indefinite pronoun markers",
     "dcat:accessURL": "https://github.com/cldf-datasets/haspelmathindefpro",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/cldf-datasets/haspelmathindefpro",
             "rdf:type": "prov:Entity",
-            "dc:created": "e53cf0e",
+            "dc:created": "6d57b22",
             "dc:title": "Repository"
         },
         {
