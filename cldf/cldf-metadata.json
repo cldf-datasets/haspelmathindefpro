@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/haspelmathindefpro",
             "rdf:type": "prov:Entity",
-            "dc:created": "db13f0e",
+            "dc:created": "e53cf0e",
             "dc:title": "Repository"
         },
         {
@@ -337,7 +337,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 432,
+            "dc:extent": 433,
             "tableSchema": {
                 "columns": [
                     {
