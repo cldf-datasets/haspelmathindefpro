@@ -1213,15 +1213,16 @@ direct negation
 			o_donaill1977[997]
 
 free-choice
-		Tar	lá	ar bith/	aon	lá	(a	thogrós	tú). (B59: 28)
+		Tar	lá	ar bith/	aon	lá	(a	thogrós	tú).
 		come	day	on world	any	day	that	like	you
 		‘Come any day (you like).’
+		de_bhaldraithe1959[28]
 
 free-choice
 		Íosfaidh	sé	rud	ar bith/	aon	rud/	*dada.
 		eats:hab	he	thing	on world	any	thing	anything
 		‘He eats anything.’
-	de_bhaldraithe1959[28]
+		de_bhaldraithe1959[28]
 
 
 osse1243
@@ -1873,7 +1874,7 @@ free choice
 	Ani	muxan	la-gur	be-dira	kol-s;\D\fo1(ehi.
 		I	willing	to-live	in-apartment	any-indef
 		‘I am willing to live in any apartment.’
-		glinert1989
+		glinert1989[94]
 
 
 haus1257
@@ -2152,9 +2153,10 @@ question
 			li1992[128]
 
 conditional
-	Ni;\D\fo1(	yàoshì	yào	shénme	dehuà,	èn	língr	zhòu	xíngle.
-			you	if	want	what		press
-			‘If you want something, ring the bell.’
+	Yàoshì	tā	xǐhuan	shénme	...
+	if	he	likes	what	...
+	‘If he likes anything.’
+	li1992[128]
 
 direct negation
 	Ta;\D\fo1(	bù	wèi	shénme	rén	zuò	shì.
@@ -2287,9 +2289,10 @@ direct negation
 		‘Nobody told me anything.’
 
 indirect negation
-	Mana	muna-shkaa-chu	pi-pis	musyanan-ta. (Weber 1989: 340)
+	Mana	muna-shkaa-chu	pi-pis	musyanan-ta.
 	not	want-perf.1sg-neg	who-indef	know-acc
 	‘I didn’t want anyone to know.’
+	weber1989[340]
 
 
 nucl1643
