@@ -681,8 +681,8 @@ class Dataset(BaseDataset):
 
     def cmd_readme(self, args):
         section_header = (
-            'Indefinite Pronouns\n'
-            '===================\n'
+            'Indefinite pronoun markers\n'
+            '==========================\n'
             '\n')
         section_content = self.raw_dir.read('intro.md')
         return f'{section_header}n{section_content}'
