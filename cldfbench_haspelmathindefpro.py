@@ -679,7 +679,7 @@ class Dataset(BaseDataset):
         csv_dir.mkdir(parents=True, exist_ok=True)
         self.raw_dir.xlsx2csv('indefpro.xlsx', outdir=csv_dir)
 
-    def cmd_readme(self, args):
+    def cmd_readme(self, _args):
         section_header = (
             'Indefinite pronoun markers\n'
             '==========================\n'
