@@ -4,7 +4,7 @@ bibtexparser==2.0.0b8
 bs4==0.0.2
 certifi==2025.11.12
 cldfbench==1.14.2
--e git+https://github.com/cldf-datasets/haspelmathindefpro.git@be96c763c2e7491e1fc94ea5e6ed3074084c7c23#egg=cldfbench_haspelmathindefpro
+-e git+https://github.com/cldf-datasets/haspelmathindefpro.git@37e0838c22ebce2af0f9830de4aad8f308317986#egg=cldfbench_haspelmathindefpro
 cldfcatalog==1.6.0
 cldfzenodo==2.2.0
 clldutils==3.24.2
