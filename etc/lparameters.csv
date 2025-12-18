@@ -1,10 +1,10 @@
 ID,Original_Name,Name,Description
-l-specific-known,specific known,Markers for ‘specific known’,
-l-specific-unknown,specific unknown,Markers for ‘specific unknown’,
-l-irrealis-nsp,irrealis nsp,Markers for ‘irrealis non-specific’,
-l-question,question,Markers for ‘question’,
-l-conditional,conditional,Markers for ‘conditional’,
-l-indirect-negation,indirect negation,Markers for ‘indirect negation’,
-l-direct-negation,direct negation,Markers for ‘direct negation’,
-l-comparative,comparative,Markers for ‘comparative’,
-l-free-choice,free choice,Markers for ‘free choice’,
+l-specific-known,specific known,Markers for ‘specific known’,The referent is specific and known to the speaker (e.g. ‘I met someone yesterday at the workshop. We agreed to meet again tomorrow.’)
+l-specific-unknown,specific unknown,Markers for ‘specific unknown’,"The referent is specific but not known to the speaker (e.g. ‘Unfortunately, I lost my purse somewhere in the shopping centre.’)"
+l-irrealis-nsp,irrealis nsp,Markers for ‘irrealis non-specific’,"The referent is non-specific, occurring only in some imagined mental space (e.g. ‘I hope that I will meet someone nice at the party.’)"
+l-question,question,Markers for ‘question’,The indefinite pronoun occurs in a question (e.g. ‘Did you meet someone interesting at the workshop?’)
+l-conditional,conditional,Markers for ‘conditional’,"The indefinite pronoun occurs in a subordinate conditional clause (e.g. ‘If you meet someone interesting at the workshop, you will be lucky.’)"
+l-indirect-negation,indirect negation,Markers for ‘indirect negation’,"The indefinite pronoun is in the scope of negation, but not of the same clause (e.g. ‘I do not expect that any of our friends will be there.’)"
+l-direct-negation,direct negation,Markers for ‘direct negation’,The indefinite pronoun is in the scope of negation within the same clause (e.g. ‘I did not meet any of our friends there.’)
+l-comparative,comparative,Markers for ‘comparative’,The indefinite pronoun occurs in the standard of a comparative construction (e.g. ‘Our guest was more interesting than any of our old friends.’)
+l-free-choice,free choice,Markers for ‘free choice’,"The indefinite pronoun indicates free choice (e.g. ‘Anyone can come to my birthday party, and they can bring anything’.)"
