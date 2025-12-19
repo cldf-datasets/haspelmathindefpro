@@ -1,0 +1,31 @@
+{
+    "title": "Indefinite pronoun markers",
+    "access_right": "open",
+    "keywords": [
+        "cldf:StructureDataset",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "communities": [
+        {
+            "identifier": "cldf-datasets"
+        },
+        {
+            "identifier": "crossgram"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Martin Haspelmath"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johannes Englisch",
+            "type": "Other"
+        }
+    ]
+}
