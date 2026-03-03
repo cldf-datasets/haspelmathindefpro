@@ -15,13 +15,13 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/haspelmathindefpro",
             "rdf:type": "prov:Entity",
-            "dc:created": "ab4c4f9",
+            "dc:created": "v1.0-1-gf1208df",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         }
     ],
@@ -273,6 +273,12 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
                         "required": false,
                         "name": "ColumnSpec"
+                    },
+                    {
+                        "dc:extent": "multivalued",
+                        "datatype": "string",
+                        "separator": ";",
+                        "name": "Grammacodes"
                     }
                 ],
                 "primaryKey": [
