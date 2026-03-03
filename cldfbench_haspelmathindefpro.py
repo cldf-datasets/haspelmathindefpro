@@ -21,8 +21,19 @@ def slug(s):
         if c in IDCHARS)
 
 
+def _split_grammacodes(pair):
+    if pair[0] == 'Grammacodes':
+        return pair[0], re.split(r'\s*,\s*', pair[1])
+    else:
+        return pair
+
+
+def split_grammacodes(row):
+    return dict(map(_split_grammacodes, row.items()))
+
+
 def make_parameters(csv_rows):
-    return {row['Original_Name']: row for row in csv_rows}
+    return {row['Original_Name']: split_grammacodes(row) for row in csv_rows}
 
 
 TxtExample = namedtuple('TxtExample', 'glottocode feature lines')
@@ -621,7 +632,14 @@ def make_schema(cldf):
         'LanguageTable',
         'http://cldf.clld.org/v1.0/terms.rdf#source',
         'Source_comment')
-    cldf.add_component('ParameterTable')
+    cldf.add_component(
+        'ParameterTable',
+        {
+            'name': 'Grammacodes',
+            'datatype': 'string',
+            'separator': ';',
+            'dc:extent': 'multivalued',
+        })
     cldf.add_component('CodeTable')
     cldf.add_columns(
         'ValueTable',
